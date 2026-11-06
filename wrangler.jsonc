@@ -1,0 +1,12 @@
+{
+  "vars": {
+    "ADMIN_USER_ID": "mt-admin",
+    "SITE_ACCESS_MODE": "public"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "30238fac-194b-4750-9c35-5317ccd09875"
+    }
+  ]
+}
