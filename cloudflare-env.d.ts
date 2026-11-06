@@ -1,7 +1,6 @@
 declare namespace Cloudflare {
   interface Env {
     DB?: D1Database;
-    BUCKET?: R2Bucket;
     INTAKE_ENCRYPTION_KEY?: string;
     SITE_ACCESS_MODE?: string;
     SEO_INDEXING?: string;

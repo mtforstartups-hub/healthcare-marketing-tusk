@@ -12,7 +12,7 @@ export async function intake(request:Request,kind:Kind){
  if(!env.DB||!env.INTAKE_ENCRYPTION_KEY||!/^[0-9a-f]{64}$/.test(env.INTAKE_ENCRYPTION_KEY))return json({error:'The enquiry service is temporarily unavailable. Please email Healthcare@marketingtusk.com.'},503);
  try{
   const details=validateIntake(await boundedBody(request),kind);const now=Date.now();
-  if(kind==='resource'&&(!(details.resource_id! in registry)||!env.BUCKET))return json({error:'This resource is temporarily unavailable. Please try again later.'},503);
+  if(kind==='resource'&&!(details.resource_id! in registry))return json({error:'This resource is temporarily unavailable. Please try again later.'},503);
   const fingerprint=await hash(JSON.stringify(details));
   const existing=await env.DB.prepare('SELECT reference,fingerprint,expires_at FROM requests WHERE idempotency_key=?').bind(details.idempotency_key).first<{reference:string,fingerprint:string,expires_at:number}>();
   if(existing){if(existing.fingerprint!==fingerprint)return json({error:'This request changed after a previous submission. Please refresh the page and submit again.'},409);return json(kind==='resource'?await resourceResponse(existing.reference,details.resource_id!):{reference:existing.reference,accepted:true,duplicate:true})}
