@@ -1,0 +1,28 @@
+/* Marketing Tusk Healthcare | Identity Tokens V1 | 2026-10-12 */
+:root {
+  --mt-health-purple: #330072;
+  --mt-health-soft-mist: #EAF3F2;
+  --mt-health-warm-ivory: #F4F1EA;
+  --mt-health-white: #FFFFFF;
+  --mt-health-ink: #21152F;
+  --mt-health-muted-slate: #685F72;
+  --mt-health-purple-light: #EEE4F6;
+  --mt-health-border: #DDD3E7;
+  --mt-health-success: #147D64;
+  --mt-health-warning: #8B5C11;
+  --mt-health-error: #A42B45;
+  --mt-health-font-display: "Manrope", "Inter", sans-serif;
+  --mt-health-font-body: "Inter", Arial, sans-serif;
+  --mt-health-radius-card: 16px;
+  --mt-health-radius-button: 12px;
+  --mt-health-focus-ring: 0 0 0 3px #FFFFFF, 0 0 0 6px #330072;
+  --mt-health-space-1: 4px; --mt-health-space-2: 8px;
+  --mt-health-space-3: 12px; --mt-health-space-4: 16px;
+  --mt-health-space-6: 24px; --mt-health-space-8: 32px;
+  --mt-health-space-12: 48px; --mt-health-space-16: 64px;
+}
+.mt-health-heading { font-family: var(--mt-health-font-display); color: var(--mt-health-ink); line-height: 1.12; letter-spacing: -0.035em; }
+.mt-health-body { font-family: var(--mt-health-font-body); color: var(--mt-health-ink); line-height: 1.6; }
+.mt-health-button { color: white; background: var(--mt-health-purple); border-radius: var(--mt-health-radius-button); min-height: 44px; }
+.mt-health-button:focus-visible { outline: 3px solid var(--mt-health-purple); outline-offset: 3px; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; } }

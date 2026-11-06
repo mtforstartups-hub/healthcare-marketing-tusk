@@ -1,0 +1,13 @@
+'use client';
+import {useState} from 'react';
+import {Icon} from './icons';
+export type Listing = {path:string;title:string;summary:string;kind:string;category:string;minutes:number};
+export function EditorialDirectory({items,initial='All',pageSize=18}:{items:Listing[];initial?:string;pageSize?:number}){
+ const [kind,setKind]=useState(initial),[topic,setTopic]=useState('All topics'),[query,setQuery]=useState(''),[limit,setLimit]=useState(pageSize);
+ const topics=[...new Set(items.map(x=>x.category))].sort();
+ const terms=query.trim().toLowerCase().split(/\s+/);
+ const visible=items.filter(x=>(kind==='All'||x.kind===kind)&&(topic==='All topics'||x.category===topic)&&terms.every(q=>(x.title+' '+x.summary+' '+x.category).toLowerCase().includes(q)));
+ return <><div className="reading-tools"><div className="filter-tabs" role="group" aria-label="Content type">{['All','Guide','Answer','Article'].filter(k=>k==='All'||items.some(x=>x.kind===k)).map(k=><button key={k} className={kind===k?'active':''} aria-pressed={kind===k} onClick={()=>{setKind(k);setLimit(pageSize)}}>{k==='All'?'All':k+'s'}</button>)}</div><label>Search by topic<input type="search" value={query} onChange={e=>{setQuery(e.target.value);setLimit(pageSize)}} placeholder="e.g. branch pages"/></label><label>Topic<select value={topic} onChange={e=>{setTopic(e.target.value);setLimit(pageSize)}}>{['All topics',...topics].map(x=><option key={x}>{x}</option>)}</select></label></div><p className="reading-count" aria-live="polite">{visible.length} {visible.length===1?'result':'results'}</p><div className="reading-grid">{visible.slice(0,limit).map(x=><ReadingCard key={x.path} item={x}/>)}</div>{visible.length>limit&&<button className="button secondary reading-more" onClick={()=>setLimit(limit+pageSize)}>Show {Math.min(pageSize,visible.length-limit)} more</button>}{!visible.length&&<div className="empty-state"><h2>No matching articles</h2><button className="button secondary" onClick={()=>{setKind('All');setTopic('All topics');setQuery('')}}>Clear filters</button></div>}</>;
+}
+export function ReadingCard({item:x}:{item:Listing}){return <article className="reading-card"><p className="reading-tag">{x.kind} <span>·</span> {x.category}</p><h3><a href={x.path}>{x.title}</a></h3><p>{x.summary}</p><footer><span>{x.minutes} min read</span><a aria-label={'Read '+x.title} href={x.path}><Icon name="arrow" size={20}/></a></footer></article>}
+export function PrintTool(){return <button className="button secondary print-hide" type="button" onClick={()=>window.print()}>Print or save as PDF <Icon name="file" size={17}/></button>}

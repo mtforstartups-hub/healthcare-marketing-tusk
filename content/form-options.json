@@ -1,0 +1,161 @@
+{
+  "services": [
+    {
+      "key": "audit",
+      "title": "Visibility & Trust Audit",
+      "cta": "Get a Free Audit"
+    },
+    {
+      "key": "branding",
+      "title": "Healthcare Branding & Content",
+      "cta": "Discuss Your Brand"
+    },
+    {
+      "key": "website",
+      "title": "Healthcare Websites & Accessibility",
+      "cta": "Discuss Your Website"
+    },
+    {
+      "key": "local",
+      "title": "Local Presence & Listings",
+      "cta": "Discuss Your Local Presence"
+    },
+    {
+      "key": "search",
+      "title": "Healthcare SEO GEO & AEO",
+      "cta": "Discuss Search Visibility"
+    },
+    {
+      "key": "social",
+      "title": "Social Media & Visual Content",
+      "cta": "Discuss Your Content"
+    },
+    {
+      "key": "systems",
+      "title": "CRM & Appointment Systems",
+      "cta": "Discuss Your Systems"
+    },
+    {
+      "key": "care",
+      "title": "Website Care & Governance",
+      "cta": "Discuss Ongoing Support"
+    },
+    {
+      "key": "b2b",
+      "title": "Healthcare B2B Growth",
+      "cta": "Discuss B2B Growth"
+    }
+  ],
+  "sectors": [
+    {
+      "id": "dental",
+      "title": "Dental Clinics & Specialists",
+      "lane": "Clinic"
+    },
+    {
+      "id": "dental-chains",
+      "title": "Dental Chains",
+      "lane": "Institution"
+    },
+    {
+      "id": "dermatology",
+      "title": "Dermatology & Laser Clinics",
+      "lane": "Clinic"
+    },
+    {
+      "id": "hair-restoration",
+      "title": "Hair Restoration & Cosmetic Surgery",
+      "lane": "Clinic"
+    },
+    {
+      "id": "physiotherapy",
+      "title": "Physiotherapy & Sports Rehabilitation",
+      "lane": "Therapy"
+    },
+    {
+      "id": "therapy-centres",
+      "title": "Speech Occupational & Child Therapy",
+      "lane": "Therapy"
+    },
+    {
+      "id": "mental-health",
+      "title": "Psychology & Counselling Centres",
+      "lane": "Therapy"
+    },
+    {
+      "id": "fertility",
+      "title": "Fertility & Maternity Centres",
+      "lane": "Clinic"
+    },
+    {
+      "id": "eye-care",
+      "title": "Eye Care & Ophthalmology",
+      "lane": "Clinic"
+    },
+    {
+      "id": "specialist",
+      "title": "Orthopaedics & Specialist Clinics",
+      "lane": "Clinic"
+    },
+    {
+      "id": "multispecialty",
+      "title": "Multispecialty Clinics",
+      "lane": "Institution"
+    },
+    {
+      "id": "diagnostics",
+      "title": "Diagnostics & Imaging Centres",
+      "lane": "Institution"
+    },
+    {
+      "id": "ayurveda",
+      "title": "Ayurveda & Panchakarma Centres",
+      "lane": "Traditional care"
+    },
+    {
+      "id": "homeopathy",
+      "title": "Homeopathy Clinics",
+      "lane": "Traditional care"
+    },
+    {
+      "id": "hospitals",
+      "title": "Hospitals & Specialty Hospitals",
+      "lane": "Institution"
+    },
+    {
+      "id": "homecare",
+      "title": "Homecare & Eldercare Providers",
+      "lane": "Care services"
+    },
+    {
+      "id": "wellness",
+      "title": "Nonmedical Wellness & Yoga Studios",
+      "lane": "Wellness"
+    },
+    {
+      "id": "healthtech",
+      "title": "Healthcare SaaS & Digital Health",
+      "lane": "B2B"
+    },
+    {
+      "id": "medical-devices",
+      "title": "Medical Devices & Equipment",
+      "lane": "B2B"
+    },
+    {
+      "id": "dental-labs",
+      "title": "Dental Laboratories",
+      "lane": "B2B"
+    },
+    {
+      "id": "healthcare-education",
+      "title": "Healthcare Training Institutions",
+      "lane": "B2B"
+    },
+    {
+      "id": "veterinary",
+      "title": "Veterinary Clinics & Animal Hospitals",
+      "lane": "Care services"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "slug":"clinic-website-acceptance-test","title":"Clinic website acceptance test","topic":"Website launch","description":"Test the tasks visitors need to complete on a phone before a clinic website goes live.","answer":"Start with four tasks: find the right location, identify an appropriate contact, submit a test enquiry, and recover from a form error. Record the result and assign an owner before launch.",
+    "columns":["Task","Pass when","Evidence to record"],
+    "rows":[["Find a clinic","The branch name, address, hours and phone number agree with the approved branch record.","Page URL and date checked"],["Reach the right team","The contact or enquiry option clearly names the location or department that handles it.","Link used and destination"],["Send a test enquiry","A labelled test request reaches the assigned inbox, and the confirmation explains what happens next.","Test reference and inbox owner"],["Recover from an error","A missing or incorrect field is identified in text and valid entries are retained.","Field name and error message"],["Use a phone or keyboard","The menu, links and form can be reached in order without clipping or losing focus.","Device or browser and failed step"]],
+    "example":"If a mobile visitor chooses a branch and the form routes the enquiry to a different branch, record the selected location, destination inbox and request reference. Repeat the test after correcting the routing.",
+    "guide":"healthcare-clinic-website-essentials-a-practical-information-architecture-checklist","service":"website"
+  },
+  {
+    "slug":"healthcare-listing-update-log","title":"Healthcare listing update log","topic":"Local listings","description":"Track a change to clinic hours, phone numbers or location details across the website and business listings.","answer":"Start with one approved branch record. Note what changed, who confirmed it, which channels need updating and when the published change was checked.",
+    "columns":["Field","Example entry","Who checks it"],
+    "rows":[["Branch and field","East branch / Saturday opening hours","Branch manager"],["Old and approved value","09:00–14:00 → 09:00–12:00","Branch manager"],["Effective date","First Saturday of the revised schedule","Operations lead"],["Website and listing URLs","Branch contact page and the authorized Business Profile","Website and listing owners"],["Change status","Website updated; listing edit submitted","Channel owners"],["Public recheck","Confirm both surfaces show the approved hours after the update appears.","Person assigned to recheck"]],
+    "example":"A submitted edit is still pending until someone checks the public listing. Track each channel separately so a website update is not mistaken for a listing update.",
+    "guide":"google-business-profile-information-checklist-for-healthcare-organizations","service":"local"
+  },
+  {
+    "slug":"healthcare-content-review-sheet","title":"Healthcare content review sheet","topic":"Editorial workflow","description":"Assign ownership, evidence and approval for facts on service, practitioner and location pages.","answer":"Record each factual claim beside its source, owner and next review trigger. Give priority to information that changes how visitors reach the organization or choose an appropriate next step.",
+    "columns":["Review item","Record","Example"],
+    "rows":[["Page and claim","Exact page URL and sentence or field","Physiotherapy service page / home visits offered"],["Source","Document or record supporting that exact claim","Approved service list for the branch"],["Owner","Person who can confirm the fact","Branch operations lead"],["Approval","Reviewer, scope and decision date","Service availability confirmed for the named branch"],["Next review","Date or change that should trigger a check","New branch, change to service list or scheduled review"],["Correction","Action, assignee and completion evidence","Remove outdated wording; recheck the published page"]],
+    "example":"When a service stops at one location, update the branch record first. Then check the service page, location page and contact options for stale references.",
+    "guide":"healthcare-seo-aeo-geo-content-governance","service":"social"
+  },
+  {
+    "slug":"clinic-enquiry-routing-map","title":"Clinic enquiry routing map","topic":"Enquiry management","description":"Map each enquiry type to a team, fallback and response before configuring forms or a CRM.","answer":"For each enquiry, name the receiving team, the minimum information it needs and the backup if nobody is available. Test the handoff with fictional details before launch.",
+    "columns":["Enquiry type","First owner","Fallback and completion"],
+    "rows":[["Appointment request","Front desk at the selected branch","Send to the central desk if a branch is unavailable; record whether a time was agreed."],["Opening hours or directions","Branch reception","Use the published contact information; update the branch page if it is wrong."],["Business or vendor enquiry","Operations inbox","Name a backup owner; acknowledge receipt and assign a follow-up."],["Report access question","Designated reports support team","Direct visitors to the approved secure channel; keep reports out of general enquiry forms."],["Unassigned or missed enquiry","Central administrator","Check the queue during staffed hours, route the enquiry and record who accepted it."]],
+    "example":"Submit a fictional appointment request for each branch. Check that the correct team sees it and that the message says a request was received, without implying an appointment has already been confirmed.",
+    "guide":"a-practical-guide-to-administrative-crm-and-workflow-automation-for-clinics","service":"systems"
+  }
+]

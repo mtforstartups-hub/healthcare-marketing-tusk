@@ -1,0 +1,327 @@
+{
+  "version": "2.0.0",
+  "placement": {
+    "service": "inline enquiry after core content",
+    "icp": "link to prefilled contact page",
+    "home": "CTA to contact, no full form",
+    "resources": "compact inline gated-download form"
+  },
+  "intake_ui": "one short form; conditionally reveal at most two service-specific questions; no process stepper",
+  "common": [
+    {
+      "key": "name",
+      "label": "Your name",
+      "required": true,
+      "max_length": 100
+    },
+    {
+      "key": "organization",
+      "label": "Organization",
+      "required": true,
+      "max_length": 180
+    },
+    {
+      "key": "email",
+      "label": "Business email",
+      "required": true,
+      "validation": "valid email syntax; common providers allowed"
+    },
+    {
+      "key": "icp",
+      "label": "Organization type",
+      "required": true,
+      "options_source": "22 canonical ICP IDs"
+    },
+    {
+      "key": "city",
+      "label": "City or region",
+      "required_for": [
+        "audit"
+      ],
+      "required_otherwise": false,
+      "max_length": 100
+    }
+  ],
+  "intents": [
+    "project",
+    "audit",
+    "help-me-choose"
+  ],
+  "service_choices": [
+    "audit",
+    "branding",
+    "website",
+    "local",
+    "search",
+    "social",
+    "systems",
+    "care",
+    "b2b"
+  ],
+  "contact_preference": {
+    "default": "email",
+    "options": [
+      "email",
+      "phone"
+    ],
+    "phone_required_only_when": "phone chosen",
+    "phone_label": "Business phone",
+    "phone_notice": "Use a number your organization wants us to contact."
+  },
+  "conditional": {
+    "audit": [
+      {
+        "key": "website_status",
+        "label": "Do you have a website?",
+        "options": [
+          "Yes",
+          "No",
+          "Not sure"
+        ],
+        "required": true
+      },
+      {
+        "key": "website",
+        "label": "Website URL",
+        "visible_when": "website_status=Yes",
+        "required_when": "website_status=Yes"
+      }
+    ],
+    "branding": [
+      {
+        "key": "brand_need",
+        "label": "What do you need?",
+        "options": [
+          "New identity",
+          "Brand refresh",
+          "Website or profile copy",
+          "Templates"
+        ],
+        "required": false
+      },
+      {
+        "key": "existing_brand",
+        "label": "Do you have existing brand assets?",
+        "options": [
+          "Yes",
+          "No",
+          "Not sure"
+        ],
+        "required": false
+      }
+    ],
+    "website": [
+      {
+        "key": "website_need",
+        "label": "What are you planning?",
+        "options": [
+          "New website",
+          "Improve current site",
+          "Accessibility improvements"
+        ],
+        "required": false
+      },
+      {
+        "key": "website",
+        "label": "Current website URL",
+        "visible_when": "website_need != New website",
+        "required": false
+      }
+    ],
+    "local": [
+      {
+        "key": "locations",
+        "label": "Number of locations",
+        "options": [
+          "1",
+          "2–5",
+          "6+"
+        ],
+        "required": false
+      },
+      {
+        "key": "listing_url",
+        "label": "Google listing URL",
+        "required": false
+      }
+    ],
+    "search": [
+      {
+        "key": "website",
+        "label": "Website URL",
+        "required": false
+      },
+      {
+        "key": "search_priority",
+        "label": "Your main priority",
+        "options": [
+          "Technical improvements",
+          "Service page visibility",
+          "Content planning",
+          "AI search visibility"
+        ],
+        "required": false
+      }
+    ],
+    "social": [
+      {
+        "key": "channels",
+        "label": "Channels you use",
+        "type": "multi_select",
+        "options": [
+          "LinkedIn",
+          "Instagram",
+          "Facebook",
+          "YouTube"
+        ],
+        "required": false
+      },
+      {
+        "key": "content_need",
+        "label": "Main content need",
+        "options": [
+          "Design consistency",
+          "Editorial plan",
+          "Approved informational content",
+          "Production support"
+        ],
+        "required": false
+      }
+    ],
+    "systems": [
+      {
+        "key": "workflow",
+        "label": "What needs improvement?",
+        "options": [
+          "Enquiry routing",
+          "Appointments",
+          "CRM integration",
+          "Reporting"
+        ],
+        "required": false
+      },
+      {
+        "key": "current_tools",
+        "label": "Current tool or system",
+        "required": false,
+        "max_length": 200
+      }
+    ],
+    "care": [
+      {
+        "key": "website",
+        "label": "Website URL",
+        "required": false
+      },
+      {
+        "key": "locations",
+        "label": "Number of locations",
+        "options": [
+          "1",
+          "2–5",
+          "6+"
+        ],
+        "required": false
+      }
+    ],
+    "b2b": [
+      {
+        "key": "buyer",
+        "label": "Who do you sell to?",
+        "options": [
+          "Healthcare organizations",
+          "Professional buyers",
+          "Distributors",
+          "Other businesses"
+        ],
+        "required": false
+      },
+      {
+        "key": "priority",
+        "label": "Business priority",
+        "options": [
+          "Product messaging",
+          "Website",
+          "Business enquiries",
+          "Sales materials"
+        ],
+        "required": false
+      }
+    ]
+  },
+  "conditional_clearing": "clear values when their controlling choice hides them; do not store invisible stale answers",
+  "clinical_scope": "B2B growth is offered to canonical B2B ICPs only; inconsistent combinations route to manual scoping, not an automatic promotional offer",
+  "resource": {
+    "required_fields": [
+      "name",
+      "email"
+    ],
+    "optional_fields": [
+      "organization"
+    ],
+    "hidden_fields": [
+      "resource_id"
+    ],
+    "no_mobile_required": true,
+    "button": "Get the Download",
+    "marketing_opt_in": {
+      "default": false,
+      "label": "Send me occasional healthcare digital-presence updates."
+    },
+    "delivery": "transactional request and immediate short-lived download grant after accepted storage; send email only when an actual configured provider accepts the message",
+    "success": "Your resource is ready.",
+    "email_pending": "Use the download link below. Email delivery is pending.",
+    "availability": "hide download CTA and do not collect leads for unavailable files"
+  },
+  "consent": {
+    "request_contact_required": true,
+    "label": "I agree to be contacted about this enquiry and have read the Privacy Notice.",
+    "marketing_separate_optional": true,
+    "patient_notice": "Please share business information only. Do not include patient details or medical records."
+  },
+  "states": [
+    "idle",
+    "validation_error",
+    "submitting",
+    "accepted",
+    "service_unavailable",
+    "retry",
+    "duplicate_safe"
+  ],
+  "metadata": [
+    "canonical_page_path",
+    "service_id",
+    "icp_id",
+    "intent",
+    "resource_id_if_any",
+    "allowlisted_campaign_tags",
+    "consent_version",
+    "server_timestamp",
+    "idempotency_key"
+  ],
+  "server_requirements": [
+    "validate field names/types/lengths and business combinations",
+    "derive internal lane from canonical ICP, not trusted client input",
+    "origin check, rate limit and spam protection",
+    "durable encrypted intake and existing outbox protections retained",
+    "no secrets or contact data in client logs",
+    "no PII in analytics, URLs or thank-you pages",
+    "do not show success before confirmed durable acceptance",
+    "no appointment claim without confirmed scheduling",
+    "retries reuse idempotency key"
+  ],
+  "endpoint_plan": {
+    "audit": "retain and adapt /api/audit-requests",
+    "project": "retain and adapt /api/consultation-requests",
+    "resource": "add /api/resource-requests with validated resource registry",
+    "download": "server-controlled grant and resource lookup, no public static asset URL"
+  },
+  "analytics": [
+    "form_started",
+    "form_accepted",
+    "audit_requested",
+    "resource_access_granted",
+    "booking_link_clicked"
+  ],
+  "analytics_data": "event and allowlisted route/service/resource IDs only; no email, phone, notes or exact form values"
+}

@@ -1,0 +1,2675 @@
+{
+  "version": "2.0.0",
+  "document_kind": "website_content_and_build_specification",
+  "implementation_status": "IMPLEMENTED",
+  "brand": {
+    "name": "Marketing Tusk Healthcare",
+    "descriptor": "Digital Presence. Credibility. Experience.",
+    "domain": "https://healthcare.marketingtusk.com",
+    "parent": "Marketing Tusk",
+    "colors": {
+      "purple": "#330072",
+      "mist": "#EAF3F2",
+      "ivory": "#F4F1EA",
+      "white": "#FFFFFF",
+      "ink": "#21152F",
+      "slate": "#685F72"
+    },
+    "heading_font": "Manrope",
+    "body_font": "Inter"
+  },
+  "decisions": {
+    "pricing_display": "starting_prices",
+    "download_access": "email_gated",
+    "blog_access": "open",
+    "process_sections": "omit",
+    "launch_pricing_status": "APPROVED_2026_10_15"
+  },
+  "navigation": [
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Who We Help",
+      "href": "/industries"
+    },
+    {
+      "label": "Resources",
+      "href": "/resources"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "global_cta": {
+    "label": "Get a Free Audit",
+    "href": "/contact?intent=audit"
+  },
+  "pages": [
+    {
+      "id": "home",
+      "path": "/",
+      "type": "home",
+      "seo": {
+        "title": "Healthcare Website Design & Marketing in India | Marketing Tusk",
+        "description": "Marketing Tusk Healthcare designs websites, builds brands and improves search, local listings and enquiry workflows for healthcare teams in India."
+      },
+      "hero": {
+        "eyebrow": "Marketing Tusk Healthcare",
+        "h1": "Websites and digital marketing for healthcare teams",
+        "body": "Websites, brand systems and digital visibility for healthcare organizations. Build a clearer presence and make it easier for people to understand and contact you.",
+        "primary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit"
+        },
+        "secondary_cta": {
+          "label": "Explore Services",
+          "href": "/services"
+        }
+      },
+      "sections": [
+        {
+          "heading": "What would you like to improve?",
+          "items": [
+            {
+              "title": "Your website",
+              "body": "Clear information, accessible pages and useful enquiry journeys.",
+              "href": "/services/healthcare-websites-accessibility"
+            },
+            {
+              "title": "Your brand",
+              "body": "A consistent identity across digital and everyday communication.",
+              "href": "/services/healthcare-branding-content"
+            },
+            {
+              "title": "Your visibility",
+              "body": "Accurate local information and stronger search foundations.",
+              "href": "/services/healthcare-seo-geo-aeo"
+            },
+            {
+              "title": "Your systems",
+              "body": "Better enquiry routing, scheduling and website upkeep.",
+              "href": "/services/crm-appointment-systems"
+            }
+          ]
+        },
+        {
+          "heading": "Built around your organization",
+          "body": "Explore an approach relevant to your practice, centre or business.",
+          "featured_icps": [
+            "dental",
+            "dermatology",
+            "physiotherapy",
+            "diagnostics",
+            "hospitals",
+            "healthtech"
+          ],
+          "link": {
+            "label": "See Who We Help",
+            "href": "/industries"
+          }
+        },
+        {
+          "heading": "Know what needs attention",
+          "body": "A Visibility & Trust Audit identifies gaps in your public digital presence and recommends practical priorities.",
+          "bullets": [
+            "Understand what is working",
+            "Identify information and experience gaps",
+            "Choose the improvements worth making"
+          ],
+          "cta": {
+            "label": "Get a Free Audit",
+            "href": "/contact?intent=audit"
+          }
+        },
+        {
+          "heading": "A specialist vertical of Marketing Tusk",
+          "body": "We bring brand, content, design and technology into a focused healthcare offering. Work is scoped to your organization and the information you approve."
+        },
+        {
+          "heading": "Useful reading for healthcare teams",
+          "source": "latest_three_approved_posts",
+          "link": {
+            "label": "Explore the Blog",
+            "href": "/blog"
+          }
+        }
+      ],
+      "closing": {
+        "heading": "Have a project in mind?",
+        "body": "Tell us what you want to improve.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project"
+        }
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "visibility-trust-audit",
+      "path": "/services/visibility-trust-audit",
+      "type": "service",
+      "service_key": "audit",
+      "title": "Visibility & Trust Audit",
+      "hero": {
+        "h1": "Healthcare Website & Digital Presence Audit",
+        "body": "See where your website, public information and contact experience need attention. Receive a focused assessment with practical recommendations.",
+        "primary_cta": {
+          "label": "Get a Free Audit",
+          "anchor": "#enquiry"
+        }
+      },
+      "price": {
+        "currency": "INR",
+        "from": 0,
+        "unit": null,
+        "display": "Free",
+        "entry_scope": "Free initial public-presence review; deeper assessments are separately scoped.",
+        "status": "APPROVED_2026_10_15"
+      },
+      "deliverables": [
+        "Public identity and contact consistency",
+        "Website and mobile enquiry experience",
+        "Information clarity and search presence",
+        "Prioritized recommendations"
+      ],
+      "fit": [
+        "You want to review your public digital presence",
+        "Your team needs a prioritized improvement plan",
+        "You are deciding which project to tackle first"
+      ],
+      "faqs": [
+        {
+          "question": "Do you need patient records?",
+          "answer": "No. The initial review uses public business information."
+        },
+        {
+          "question": "Is this a clinical rating?",
+          "answer": "No. It reviews digital presence and information experience."
+        }
+      ],
+      "form": {
+        "placement": "inline_end",
+        "preset_service": "audit",
+        "preset_intent": "audit",
+        "heading": "Get a Free Audit"
+      },
+      "seo": {
+        "title": "Healthcare Website & Digital Presence Audit | Marketing Tusk",
+        "description": "Request a free review of your healthcare website, public listings and enquiry routes. Get examples of what needs fixing and where to start."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "healthcare-branding-content",
+      "path": "/services/healthcare-branding-content",
+      "type": "service",
+      "service_key": "branding",
+      "title": "Healthcare Branding & Content",
+      "hero": {
+        "h1": "Healthcare Branding & Content Services",
+        "body": "Create a clear brand system and useful content for your website, documents and everyday communication.",
+        "primary_cta": {
+          "label": "Discuss Your Brand",
+          "anchor": "#enquiry"
+        }
+      },
+      "price": {
+        "currency": "INR",
+        "from": 35000,
+        "unit": "project",
+        "display": "From ₹35,000",
+        "entry_scope": "Entry scope: one visual identity system and core stationery or digital templates.",
+        "status": "APPROVED_2026_10_15"
+      },
+      "deliverables": [
+        "Brand positioning and message hierarchy",
+        "Visual identity and design guidelines",
+        "Website and corporate profile copy",
+        "Reusable communication templates"
+      ],
+      "fit": [
+        "An identity that has become inconsistent",
+        "A new organization or location needing a clear introduction",
+        "Documents and website copy that no longer fit"
+      ],
+      "faqs": [
+        {
+          "question": "Can you work with our existing logo?",
+          "answer": "Yes. We can refine the surrounding system while retaining suitable existing assets."
+        },
+        {
+          "question": "Does this include medical content?",
+          "answer": "Clinical information is scoped separately and needs appropriate review."
+        }
+      ],
+      "form": {
+        "placement": "inline_end",
+        "preset_service": "branding",
+        "preset_intent": "project",
+        "heading": "Discuss Your Brand"
+      },
+      "seo": {
+        "title": "Healthcare Branding & Content Services | Marketing Tusk Healthcare",
+        "description": "Develop a healthcare brand identity, messaging and factual website copy for your clinic, hospital or healthcare business. See scope and starting prices."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "healthcare-websites-accessibility",
+      "path": "/services/healthcare-websites-accessibility",
+      "type": "service",
+      "service_key": "website",
+      "title": "Healthcare Websites & Accessibility",
+      "hero": {
+        "h1": "Healthcare Website Design & Accessibility",
+        "body": "Organize your information, improve mobile navigation and build clear enquiry journeys for the people visiting your website.",
+        "primary_cta": {
+          "label": "Discuss Your Website",
+          "anchor": "#enquiry"
+        }
+      },
+      "price": {
+        "currency": "INR",
+        "from": 65000,
+        "unit": "project",
+        "display": "From ₹65,000",
+        "entry_scope": "Entry scope: one location and up to eight core pages; integrations and specialist remediation are additional.",
+        "status": "APPROVED_2026_10_15"
+      },
+      "deliverables": [
+        "Website structure, copy and responsive design",
+        "Service, practitioner and location pages",
+        "Enquiry forms and contact navigation",
+        "Accessibility improvements and launch checks"
+      ],
+      "fit": [
+        "Information is difficult to find on a phone",
+        "Your current site no longer reflects the organization",
+        "Forms and navigation need a clearer structure"
+      ],
+      "faqs": [
+        {
+          "question": "Can you improve the current website?",
+          "answer": "Yes. We will assess whether targeted improvements or a rebuild better fit the scope."
+        },
+        {
+          "question": "Is accessibility certification included?",
+          "answer": "No. Assessment and remediation are scoped to agreed requirements."
+        }
+      ],
+      "form": {
+        "placement": "inline_end",
+        "preset_service": "website",
+        "preset_intent": "project",
+        "heading": "Discuss Your Website"
+      },
+      "seo": {
+        "title": "Healthcare Website Design & Accessibility | Marketing Tusk Healthcare",
+        "description": "Plan and build a healthcare website with clear services, practitioner profiles, branch pages, mobile navigation and enquiry routes."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "local-presence-listings",
+      "path": "/services/local-presence-listings",
+      "type": "service",
+      "service_key": "local",
+      "title": "Local Presence & Listings",
+      "hero": {
+        "h1": "Local SEO & Listings for Healthcare",
+        "body": "Help people find the right address, opening hours and contact details across your website and public business listings.",
+        "primary_cta": {
+          "label": "Discuss Your Local Presence",
+          "anchor": "#enquiry"
+        }
+      },
+      "price": {
+        "currency": "INR",
+        "from": 15000,
+        "unit": "project",
+        "display": "From ₹15,000",
+        "entry_scope": "Entry scope: one location, an owned-information review and agreed listing corrections.",
+        "status": "APPROVED_2026_10_15"
+      },
+      "deliverables": [
+        "Business name, address and contact review",
+        "Google Business Profile information updates",
+        "Website location-page improvements",
+        "Branch information ownership"
+      ],
+      "fit": [
+        "Public sources show different hours or addresses",
+        "A new or moved location needs consistent details",
+        "Branch information is maintained by several people"
+      ],
+      "faqs": [
+        {
+          "question": "Can you guarantee map rankings?",
+          "answer": "No. This service focuses on accurate information and appropriate listing improvements."
+        },
+        {
+          "question": "Will you need listing access?",
+          "answer": "Authorized access is needed before making owned-profile changes."
+        }
+      ],
+      "form": {
+        "placement": "inline_end",
+        "preset_service": "local",
+        "preset_intent": "project",
+        "heading": "Discuss Your Local Presence"
+      },
+      "seo": {
+        "title": "Local SEO & Listings for Healthcare | Marketing Tusk Healthcare",
+        "description": "Organize clinic locations, hours, public phone numbers and directions. Improve consistency across branch pages and the business listings you manage."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "healthcare-seo-geo-aeo",
+      "path": "/services/healthcare-seo-geo-aeo",
+      "type": "service",
+      "service_key": "search",
+      "title": "Healthcare SEO, GEO, AEO & AIO",
+      "hero": {
+        "h1": "Healthcare SEO, GEO, AEO & AI Search",
+        "body": "Improve how people find and understand your healthcare website in traditional search, answer engines and AI-generated results.",
+        "primary_cta": {
+          "label": "Discuss Search Visibility",
+          "anchor": "#enquiry"
+        }
+      },
+      "price": {
+        "currency": "INR",
+        "from": 25000,
+        "unit": "project",
+        "display": "From ₹25,000",
+        "entry_scope": "Entry scope: technical review and priority-page optimization plan; ongoing content is separately scoped.",
+        "status": "APPROVED_2026_10_15"
+      },
+      "deliverables": [
+        "Technical SEO and page architecture",
+        "Search-intent and content mapping",
+        "Clear answers, relevant internal links and valid structured data",
+        "Search reporting and checks on how AI answers describe your organization"
+      ],
+      "fit": [
+        "Useful pages are hard to discover",
+        "Service information is fragmented or unclear",
+        "You need a purposeful editorial plan"
+      ],
+      "faqs": [
+        {
+          "question": "What do SEO, AEO, GEO and AIO cover?",
+          "answer": "SEO improves discovery in search. AEO gives readers a direct answer. GEO helps generative systems identify and cite useful facts. AIO, used here to mean AI search optimization, checks how the same information is represented in AI search experiences such as AI Overviews."
+        },
+        {
+          "question": "Can you guarantee rankings or AI citations?",
+          "answer": "No. We improve the pages and evidence people and search systems can access, then measure the visibility signals available to your team."
+        }
+      ],
+      "form": {
+        "placement": "inline_end",
+        "preset_service": "search",
+        "preset_intent": "project",
+        "heading": "Discuss Search Visibility"
+      },
+      "seo": {
+        "title": "Healthcare SEO, GEO, AEO & AI Search | Marketing Tusk Healthcare",
+        "description": "Improve healthcare search visibility with technical SEO, answer-first content, internal links and structured data. See scope and starting prices."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "social-media-visual-content",
+      "path": "/services/social-media-visual-content",
+      "type": "service",
+      "service_key": "social",
+      "title": "Social Media & Visual Content",
+      "hero": {
+        "h1": "Healthcare Social Media & Visual Content",
+        "body": "Plan useful content and build a recognizable design system for your organization’s approved public communication.",
+        "primary_cta": {
+          "label": "Discuss Your Content",
+          "anchor": "#enquiry"
+        }
+      },
+      "price": {
+        "currency": "INR",
+        "from": 15000,
+        "unit": "month",
+        "display": "From ₹15,000/month",
+        "entry_scope": "Entry scope: one organization and up to eight approved posts per month across two channels; shoots and paid media are additional.",
+        "status": "APPROVED_2026_10_15"
+      },
+      "deliverables": [
+        "Content themes and editorial calendars",
+        "Social design and approved copy",
+        "Facility, team and information visuals where appropriate",
+        "Publishing support and reporting"
+      ],
+      "fit": [
+        "Your channels look disconnected",
+        "Content lacks a clear purpose or review owner",
+        "You need reusable designs for factual updates"
+      ],
+      "faqs": [
+        {
+          "question": "Can you create promotional doctor content?",
+          "answer": "Clinical communication is reviewed for the relevant professional scope before work is agreed."
+        },
+        {
+          "question": "Is photography included?",
+          "answer": "Photography and video production are separately quoted."
+        }
+      ],
+      "form": {
+        "placement": "inline_end",
+        "preset_service": "social",
+        "preset_intent": "project",
+        "heading": "Discuss Your Content"
+      },
+      "seo": {
+        "title": "Healthcare Social Media & Visual Content | Marketing Tusk Healthcare",
+        "description": "Develop reusable social templates, factual posts and a content plan for your healthcare organization. See project scope and starting prices."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "crm-appointment-systems",
+      "path": "/services/crm-appointment-systems",
+      "type": "service",
+      "service_key": "systems",
+      "title": "CRM & Appointment Systems",
+      "hero": {
+        "h1": "Clinic CRM & Appointment Enquiry Systems",
+        "body": "Connect business enquiries, scheduling and follow-up responsibilities with workflows your team can use.",
+        "primary_cta": {
+          "label": "Discuss Your Systems",
+          "anchor": "#enquiry"
+        }
+      },
+      "price": {
+        "currency": "INR",
+        "from": 60000,
+        "unit": "project",
+        "display": "From ₹60,000",
+        "entry_scope": "Entry scope: one defined appointment or enquiry workflow. Broader CRM deployments start from ₹70,000 and are scoped separately.",
+        "status": "APPROVED_2026_10_15"
+      },
+      "deliverables": [
+        "Enquiry routing and response ownership",
+        "Appointment and rescheduling interfaces",
+        "Administrative CRM integrations",
+        "Workflow dashboards and access controls"
+      ],
+      "fit": [
+        "Enquiries move between several tools",
+        "Scheduling responsibilities are unclear",
+        "Your team needs a more consistent administrative workflow"
+      ],
+      "faqs": [
+        {
+          "question": "Does this automate medical advice?",
+          "answer": "No. The service concerns approved administrative workflows."
+        },
+        {
+          "question": "Can you use our current tools?",
+          "answer": "Yes, where their supported integrations and access permissions fit the scope."
+        }
+      ],
+      "form": {
+        "placement": "inline_end",
+        "preset_service": "systems",
+        "preset_intent": "project",
+        "heading": "Discuss Your Systems"
+      },
+      "seo": {
+        "title": "Clinic CRM & Appointment Enquiry Systems | Marketing Tusk Healthcare",
+        "description": "Map clinic enquiries, reception handoffs, appointment requests and follow-ups before choosing or configuring administrative software."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "website-care-governance",
+      "path": "/services/website-care-governance",
+      "type": "service",
+      "service_key": "care",
+      "title": "Website Care & Governance",
+      "hero": {
+        "h1": "Healthcare Website Maintenance & Governance",
+        "body": "Give information updates, maintenance and branch responsibilities a dependable owner.",
+        "primary_cta": {
+          "label": "Discuss Ongoing Support",
+          "anchor": "#enquiry"
+        }
+      },
+      "price": {
+        "currency": "INR",
+        "from": 12000,
+        "unit": "month",
+        "display": "From ₹12,000/month",
+        "entry_scope": "Entry scope: one website, up to six support hours monthly, agreed maintenance tasks and factual updates.",
+        "status": "APPROVED_2026_10_15"
+      },
+      "deliverables": [
+        "Website updates, backups and maintenance",
+        "Factual content and location checks",
+        "Content ownership and approval records",
+        "Multi-location update planning"
+      ],
+      "fit": [
+        "Your site contains old information",
+        "Small fixes remain unresolved",
+        "Teams need a shared update and approval routine"
+      ],
+      "faqs": [
+        {
+          "question": "Are redesigns included?",
+          "answer": "Major redesigns and new functionality are separately scoped."
+        },
+        {
+          "question": "Can this cover several branches?",
+          "answer": "Yes. Multi-location support is quoted against the agreed workload."
+        }
+      ],
+      "form": {
+        "placement": "inline_end",
+        "preset_service": "care",
+        "preset_intent": "project",
+        "heading": "Discuss Ongoing Support"
+      },
+      "seo": {
+        "title": "Healthcare Website Maintenance & Governance | Marketing Tusk",
+        "description": "Keep healthcare websites current with clear ownership for service changes, branch updates, broken links and ongoing maintenance."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "healthcare-b2b-growth",
+      "path": "/services/healthcare-b2b-growth",
+      "type": "service",
+      "service_key": "b2b",
+      "title": "Healthcare B2B Growth",
+      "hero": {
+        "h1": "Healthcare B2B Marketing & Sales Content",
+        "body": "Build positioning, content and sales journeys for healthcare technology, equipment, laboratories and training businesses.",
+        "primary_cta": {
+          "label": "Discuss B2B Growth",
+          "anchor": "#enquiry"
+        }
+      },
+      "price": {
+        "currency": "INR",
+        "from": 40000,
+        "unit": "project",
+        "display": "From ₹40,000",
+        "entry_scope": "Entry scope: one B2B positioning and campaign-planning engagement; retainers and media are additional.",
+        "status": "APPROVED_2026_10_15"
+      },
+      "deliverables": [
+        "Buyer positioning and product messaging",
+        "Product websites and business enquiry journeys",
+        "Sales collateral and useful technical content",
+        "Eligible B2B campaign planning"
+      ],
+      "fit": [
+        "Your product is difficult to explain",
+        "Business enquiries lack a clear route",
+        "Sales teams need consistent materials"
+      ],
+      "faqs": [
+        {
+          "question": "Is this a patient-acquisition service?",
+          "answer": "No. This page covers healthcare business-to-business growth."
+        },
+        {
+          "question": "Is advertising spend included?",
+          "answer": "No. Media and third-party costs are additional."
+        }
+      ],
+      "form": {
+        "placement": "inline_end",
+        "preset_service": "b2b",
+        "preset_intent": "project",
+        "heading": "Discuss B2B Growth"
+      },
+      "seo": {
+        "title": "Healthcare B2B Marketing & Sales Content | Marketing Tusk Healthcare",
+        "description": "Clarify your healthcare B2B offer and equip buyers with product pages, useful proof and sales content for a considered purchase."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "services",
+      "path": "/services",
+      "type": "service_hub",
+      "hero": {
+        "h1": "Healthcare digital services",
+        "body": "Explore focused services for your brand, website, visibility and administrative systems."
+      },
+      "groups": [
+        {
+          "heading": "Review",
+          "service_keys": [
+            "audit"
+          ]
+        },
+        {
+          "heading": "Brand and experience",
+          "service_keys": [
+            "branding",
+            "website"
+          ]
+        },
+        {
+          "heading": "Visibility and communication",
+          "service_keys": [
+            "local",
+            "search",
+            "social"
+          ]
+        },
+        {
+          "heading": "Systems and support",
+          "service_keys": [
+            "systems",
+            "care"
+          ]
+        },
+        {
+          "heading": "Business growth",
+          "service_keys": [
+            "b2b"
+          ]
+        }
+      ],
+      "cta": {
+        "label": "Help Me Choose",
+        "href": "/contact?intent=help-me-choose"
+      },
+      "seo": {
+        "title": "Healthcare Digital Services & Starting Prices | Marketing Tusk",
+        "description": "Compare healthcare websites, branding, search, listings, content and enquiry systems. See what each service includes and where to start."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "dental",
+      "path": "/industries/dental",
+      "type": "icp",
+      "title": "Dental Clinics & Specialists",
+      "lane": "Clinic",
+      "hero": {
+        "h1": "Website Design & Marketing for Dental Clinics",
+        "body": "Help people understand your practice, find current information and contact the right team.",
+        "primary_cta": {
+          "label": "Discuss Your Dental Website",
+          "href": "/contact?intent=project&icp=dental"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=dental"
+        }
+      },
+      "focus": [
+        "Practitioner and service information",
+        "Location details and enquiry routes",
+        "Clear treatment-information navigation"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Local Presence & Listings",
+          "href": "/services/local-presence-listings"
+        },
+        {
+          "label": "Website Care & Governance",
+          "href": "/services/website-care-governance"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=dental"
+        }
+      },
+      "seo": {
+        "title": "Website Design & Marketing for Dental Clinics | Marketing Tusk",
+        "description": "Help patients find your dental services, practitioner information and appointment routes. Explore website, search and branding support for dental practices."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can the site cover several dental specialties?",
+          "answer": "Yes. Separate approved service information and practitioner profiles can sit within one understandable practice website."
+        },
+        {
+          "question": "Do we need a new identity to improve the website?",
+          "answer": "No. Suitable existing brand assets can be retained."
+        }
+      ]
+    },
+    {
+      "id": "dental-chains",
+      "path": "/industries/dental-chains",
+      "type": "icp",
+      "title": "Dental Chains",
+      "lane": "Institution",
+      "hero": {
+        "h1": "Websites & Local Search for Dental Chains",
+        "body": "Give each location useful information while keeping brand, updates and administrative ownership consistent.",
+        "primary_cta": {
+          "label": "Discuss Your Branches",
+          "href": "/contact?intent=project&icp=dental-chains"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=dental-chains"
+        }
+      },
+      "focus": [
+        "Branch pages and practitioner directories",
+        "Shared information and update ownership",
+        "Location-specific contact journeys"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "CRM & Appointment Systems",
+          "href": "/services/crm-appointment-systems"
+        },
+        {
+          "label": "Website Care & Governance",
+          "href": "/services/website-care-governance"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=dental-chains"
+        }
+      },
+      "seo": {
+        "title": "Websites & Local Search for Dental Chains | Marketing Tusk Healthcare",
+        "description": "Organize dental branches, dentist profiles, location details and appointment routes in one website, with consistent public listings across locations."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can each branch have its own page?",
+          "answer": "Yes. Branch pages can have local details within a shared brand and content structure."
+        },
+        {
+          "question": "Who approves branch updates?",
+          "answer": "We define the responsible owners with your team before the update workflow is built."
+        }
+      ]
+    },
+    {
+      "id": "dermatology",
+      "path": "/industries/dermatology",
+      "type": "icp",
+      "title": "Dermatology & Laser Clinics",
+      "lane": "Clinic",
+      "hero": {
+        "h1": "Website Design for Dermatology & Skin Clinics",
+        "body": "Present approved practitioner, facility and service information through a website that is clear on every screen.",
+        "primary_cta": {
+          "label": "Discuss Your Clinic",
+          "href": "/contact?intent=project&icp=dermatology"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=dermatology"
+        }
+      },
+      "focus": [
+        "Practitioner information and facility presentation",
+        "Readable service pages and mobile navigation",
+        "Consistent identity across approved materials"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Branding & Content",
+          "href": "/services/healthcare-branding-content"
+        },
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Local Presence & Listings",
+          "href": "/services/local-presence-listings"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=dermatology"
+        }
+      },
+      "seo": {
+        "title": "Website Design for Dermatology & Skin Clinics | Marketing Tusk",
+        "description": "Build a clear dermatology website with verified service descriptions, practitioner profiles and consultation routes for your clinic or locations."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can the website present several services?",
+          "answer": "Yes. Service information can be organized around approved factual descriptions."
+        },
+        {
+          "question": "Can you retain our clinic photography?",
+          "answer": "Yes, where the images are suitable and rights to use them are confirmed."
+        }
+      ]
+    },
+    {
+      "id": "hair-restoration",
+      "path": "/industries/hair-restoration",
+      "type": "icp",
+      "title": "Hair Restoration & Cosmetic Surgery",
+      "lane": "Clinic",
+      "hero": {
+        "h1": "Websites for Hair Restoration Clinics",
+        "body": "Organize factual procedure, practitioner and facility information with careful content ownership.",
+        "primary_cta": {
+          "label": "Discuss Your Website",
+          "href": "/contact?intent=project&icp=hair-restoration"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=hair-restoration"
+        }
+      },
+      "focus": [
+        "Approved procedure information",
+        "Practitioner and facility details",
+        "Enquiry routes with clear expectations"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Healthcare Branding & Content",
+          "href": "/services/healthcare-branding-content"
+        },
+        {
+          "label": "Website Care & Governance",
+          "href": "/services/website-care-governance"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=hair-restoration"
+        }
+      },
+      "seo": {
+        "title": "Websites for Hair Restoration Clinics | Marketing Tusk Healthcare",
+        "description": "Present consultation options, clinic locations and approved service information clearly. Explore websites and content for hair restoration teams."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "How are procedure claims handled?",
+          "answer": "Clinical statements need appropriate source and professional review before publication."
+        },
+        {
+          "question": "Can the site separate facility information from practitioner profiles?",
+          "answer": "Yes. The architecture can give each information type a useful home."
+        }
+      ]
+    },
+    {
+      "id": "physiotherapy",
+      "path": "/industries/physiotherapy",
+      "type": "icp",
+      "title": "Physiotherapy & Sports Rehabilitation",
+      "lane": "Therapy",
+      "hero": {
+        "h1": "Website Design for Physiotherapy Clinics",
+        "body": "Make it easy to understand your team, service scope, facility access and appointment options.",
+        "primary_cta": {
+          "label": "Discuss Your Centre",
+          "href": "/contact?intent=project&icp=physiotherapy"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=physiotherapy"
+        }
+      },
+      "focus": [
+        "Service and therapist information",
+        "Accessible facility and contact details",
+        "Appointment and enquiry navigation"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "CRM & Appointment Systems",
+          "href": "/services/crm-appointment-systems"
+        },
+        {
+          "label": "Local Presence & Listings",
+          "href": "/services/local-presence-listings"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=physiotherapy"
+        }
+      },
+      "seo": {
+        "title": "Website Design for Physiotherapy Clinics | Marketing Tusk Healthcare",
+        "description": "Help visitors find physiotherapy and rehabilitation services, directions and enquiry options. Explore website design and digital support for your centre."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can visitors see facility access details?",
+          "answer": "Yes. Approved access and location information can be presented clearly."
+        },
+        {
+          "question": "Can appointment requests fit our existing scheduling?",
+          "answer": "Yes, subject to the current tool’s supported integration and agreed administrative scope."
+        }
+      ]
+    },
+    {
+      "id": "therapy-centres",
+      "path": "/industries/therapy-centres",
+      "type": "icp",
+      "title": "Speech Occupational & Child Therapy",
+      "lane": "Therapy",
+      "hero": {
+        "h1": "Websites for Speech & Occupational Therapy",
+        "body": "Create an understandable introduction to your services, team and contact options without overwhelming visitors.",
+        "primary_cta": {
+          "label": "Discuss Your Therapy Website",
+          "href": "/contact?intent=project&icp=therapy-centres"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=therapy-centres"
+        }
+      },
+      "focus": [
+        "Caregiver-focused service information",
+        "Qualifications and role clarity",
+        "Accessible enquiries without unnecessary personal details"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Healthcare Branding & Content",
+          "href": "/services/healthcare-branding-content"
+        },
+        {
+          "label": "Website Care & Governance",
+          "href": "/services/website-care-governance"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=therapy-centres"
+        }
+      },
+      "seo": {
+        "title": "Websites for Speech & Occupational Therapy | Marketing Tusk",
+        "description": "Give families, referrers and partners clear information about your therapy centre, practitioner team, location and next steps."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can the site explain different therapy services?",
+          "answer": "Yes. Separate pages can describe approved scope without overwhelming caregivers."
+        },
+        {
+          "question": "Do forms need a child’s health history?",
+          "answer": "Not for a general business or initial administrative enquiry. Collection should match the actual task."
+        }
+      ]
+    },
+    {
+      "id": "mental-health",
+      "path": "/industries/mental-health",
+      "type": "icp",
+      "title": "Psychology & Counselling Centres",
+      "lane": "Therapy",
+      "hero": {
+        "h1": "Websites for Counselling & Psychology Practices",
+        "body": "Present professional information, service scope and private contact options with clear boundaries.",
+        "primary_cta": {
+          "label": "Discuss Your Practice",
+          "href": "/contact?intent=project&icp=mental-health"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=mental-health"
+        }
+      },
+      "focus": [
+        "Professional profiles and service scope",
+        "Considerate language and accessible navigation",
+        "Minimal, appropriate enquiry collection"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "CRM & Appointment Systems",
+          "href": "/services/crm-appointment-systems"
+        },
+        {
+          "label": "Website Care & Governance",
+          "href": "/services/website-care-governance"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=mental-health"
+        }
+      },
+      "seo": {
+        "title": "Websites for Counselling & Psychology Practices | Marketing Tusk",
+        "description": "Present your counselling practice, team, locations and appointment routes with clear expectations about how and when your team replies."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can the website explain confidentiality?",
+          "answer": "Yes. Your approved privacy and contact information can be presented in understandable language."
+        },
+        {
+          "question": "Can visitors choose a suitable contact route?",
+          "answer": "Yes. Contact options can reflect how your practice actually responds."
+        }
+      ]
+    },
+    {
+      "id": "fertility",
+      "path": "/industries/fertility",
+      "type": "icp",
+      "title": "Fertility & Maternity Centres",
+      "lane": "Clinic",
+      "hero": {
+        "h1": "Website Design for Fertility & Maternity Centres",
+        "body": "Help visitors understand your centre, approved service information and administrative contact options.",
+        "primary_cta": {
+          "label": "Discuss Your Centre",
+          "href": "/contact?intent=project&icp=fertility"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=fertility"
+        }
+      },
+      "focus": [
+        "Clinician and centre information",
+        "Balanced, approved educational pages",
+        "Privacy-conscious enquiry journeys"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Healthcare Branding & Content",
+          "href": "/services/healthcare-branding-content"
+        },
+        {
+          "label": "CRM & Appointment Systems",
+          "href": "/services/crm-appointment-systems"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=fertility"
+        }
+      },
+      "seo": {
+        "title": "Website Design for Fertility & Maternity Centres | Marketing Tusk",
+        "description": "Organize consultation information, centre details and first-contact routes on a website that helps people plan their next step."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can educational information be included?",
+          "answer": "Yes, with an appropriate clinical review and publication scope."
+        },
+        {
+          "question": "Can enquiries be kept separate from clinical records?",
+          "answer": "The public enquiry journey can be scoped separately from authorized clinical systems."
+        }
+      ]
+    },
+    {
+      "id": "eye-care",
+      "path": "/industries/eye-care",
+      "type": "icp",
+      "title": "Eye Care & Ophthalmology",
+      "lane": "Clinic",
+      "hero": {
+        "h1": "Website Design for Eye Clinics",
+        "body": "Bring practitioner details, services, facility information and contact routes into a clear digital structure.",
+        "primary_cta": {
+          "label": "Discuss Your Eye Care Website",
+          "href": "/contact?intent=project&icp=eye-care"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=eye-care"
+        }
+      },
+      "focus": [
+        "Specialist and service directories",
+        "Accessible information and forms",
+        "Current location and operating details"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Local Presence & Listings",
+          "href": "/services/local-presence-listings"
+        },
+        {
+          "label": "Website Care & Governance",
+          "href": "/services/website-care-governance"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=eye-care"
+        }
+      },
+      "seo": {
+        "title": "Website Design for Eye Clinics | Marketing Tusk Healthcare",
+        "description": "Help people find eye care services, specialist information, clinic directions and the right reception or appointment contact."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can practitioners and services be linked?",
+          "answer": "Yes. Relevant directories can connect approved profiles with service information."
+        },
+        {
+          "question": "Can forms and text be reviewed for accessibility?",
+          "answer": "Yes. Assessment and remediation can be included in the agreed website scope."
+        }
+      ]
+    },
+    {
+      "id": "specialist",
+      "path": "/industries/specialist",
+      "type": "icp",
+      "title": "Orthopaedics & Specialist Clinics",
+      "lane": "Clinic",
+      "hero": {
+        "h1": "Website Design for Specialist Clinics",
+        "body": "Present factual professional and clinic information through an organized website and consistent public details.",
+        "primary_cta": {
+          "label": "Discuss Your Practice",
+          "href": "/contact?intent=project&icp=specialist"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=specialist"
+        }
+      },
+      "focus": [
+        "Practitioner profiles and scope",
+        "Clear specialty and clinic information",
+        "Mobile contact and access details"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Local Presence & Listings",
+          "href": "/services/local-presence-listings"
+        },
+        {
+          "label": "Website Care & Governance",
+          "href": "/services/website-care-governance"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=specialist"
+        }
+      },
+      "seo": {
+        "title": "Website Design for Specialist Clinics | Marketing Tusk Healthcare",
+        "description": "Explain your specialist services, referral information, practitioner roles and reception routes on a website that visitors can navigate easily."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can the website cover several specialists?",
+          "answer": "Yes. The structure can organize approved specialist and clinic information."
+        },
+        {
+          "question": "Can contact details differ by location?",
+          "answer": "Yes. Each genuine location can have the correct administrative contact route."
+        }
+      ]
+    },
+    {
+      "id": "multispecialty",
+      "path": "/industries/multispecialty",
+      "type": "icp",
+      "title": "Multispecialty Clinics",
+      "lane": "Institution",
+      "hero": {
+        "h1": "Websites for Multispecialty Clinics",
+        "body": "Help people find the relevant specialty, practitioner and contact route without navigating disconnected pages.",
+        "primary_cta": {
+          "label": "Discuss Your Clinic Website",
+          "href": "/contact?intent=project&icp=multispecialty"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=multispecialty"
+        }
+      },
+      "focus": [
+        "Department and practitioner directories",
+        "Shared contact and enquiry structure",
+        "Information ownership across teams"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "CRM & Appointment Systems",
+          "href": "/services/crm-appointment-systems"
+        },
+        {
+          "label": "Website Care & Governance",
+          "href": "/services/website-care-governance"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=multispecialty"
+        }
+      },
+      "seo": {
+        "title": "Websites for Multispecialty Clinics | Marketing Tusk Healthcare",
+        "description": "Connect clinic departments, doctor profiles and locations so visitors can find a relevant service, branch and enquiry route."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can departments manage their own information?",
+          "answer": "A governed workflow can give departments defined editing and approval responsibilities."
+        },
+        {
+          "question": "Can enquiries be directed by department?",
+          "answer": "Yes. Routing can follow your actual administrative ownership."
+        }
+      ]
+    },
+    {
+      "id": "diagnostics",
+      "path": "/industries/diagnostics",
+      "type": "icp",
+      "title": "Diagnostics & Imaging Centres",
+      "lane": "Institution",
+      "hero": {
+        "h1": "Websites for Diagnostic & Imaging Centres",
+        "body": "Bring approved test information, locations, hours and administrative enquiries into a consistent digital experience.",
+        "primary_cta": {
+          "label": "Discuss Your Diagnostic Centres",
+          "href": "/contact?intent=project&icp=diagnostics"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=diagnostics"
+        }
+      },
+      "focus": [
+        "Test-menu information and centre pages",
+        "Operating details across locations",
+        "Appointment and report-access navigation"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Local Presence & Listings",
+          "href": "/services/local-presence-listings"
+        },
+        {
+          "label": "CRM & Appointment Systems",
+          "href": "/services/crm-appointment-systems"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=diagnostics"
+        }
+      },
+      "seo": {
+        "title": "Websites for Diagnostic & Imaging Centres | Marketing Tusk Healthcare",
+        "description": "Organize test menus, centre locations, availability information and the right routes for booking, reception and report access."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can each centre have distinct hours and services?",
+          "answer": "Yes. Location records can represent the approved details for each centre."
+        },
+        {
+          "question": "Will you write medical preparation instructions?",
+          "answer": "Clinical instructions need approved source material and qualified review."
+        }
+      ]
+    },
+    {
+      "id": "ayurveda",
+      "path": "/industries/ayurveda",
+      "type": "icp",
+      "title": "Ayurveda & Panchakarma Centres",
+      "lane": "Traditional care",
+      "hero": {
+        "h1": "Website Design for Ayurveda Clinics",
+        "body": "Build a coherent identity around verified practitioner information, facilities and approved service descriptions.",
+        "primary_cta": {
+          "label": "Discuss Your Centre",
+          "href": "/contact?intent=project&icp=ayurveda"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=ayurveda"
+        }
+      },
+      "focus": [
+        "Practitioner and facility presentation",
+        "Reviewed service information",
+        "Consistent location and contact details"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Branding & Content",
+          "href": "/services/healthcare-branding-content"
+        },
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Local Presence & Listings",
+          "href": "/services/local-presence-listings"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=ayurveda"
+        }
+      },
+      "seo": {
+        "title": "Website Design for Ayurveda Clinics | Marketing Tusk Healthcare",
+        "description": "Present your Ayurveda centre, practitioner information, consultation format, location and appointment routes in plain, factual language."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can the website present facilities and service information?",
+          "answer": "Yes. The scope uses approved factual information and verified practitioner details."
+        },
+        {
+          "question": "Can an existing brand be retained?",
+          "answer": "Yes. We can build a more consistent system around suitable assets."
+        }
+      ]
+    },
+    {
+      "id": "homeopathy",
+      "path": "/industries/homeopathy",
+      "type": "icp",
+      "title": "Homeopathy Clinics",
+      "lane": "Traditional care",
+      "hero": {
+        "h1": "Website Design for Homeopathy Clinics",
+        "body": "Give people a clear introduction to your practitioner, clinic details and approved service information.",
+        "primary_cta": {
+          "label": "Discuss Your Clinic",
+          "href": "/contact?intent=project&icp=homeopathy"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=homeopathy"
+        }
+      },
+      "focus": [
+        "Factual practitioner profiles",
+        "Clinic information and hours",
+        "Usable mobile contact routes"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Local Presence & Listings",
+          "href": "/services/local-presence-listings"
+        },
+        {
+          "label": "Website Care & Governance",
+          "href": "/services/website-care-governance"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=homeopathy"
+        }
+      },
+      "seo": {
+        "title": "Website Design for Homeopathy Clinics | Marketing Tusk Healthcare",
+        "description": "Organize homeopathy practice details, consultation options, practitioner information and approved contact routes on a clear website."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can you create a concise practice website?",
+          "answer": "Yes. A focused scope can cover the practitioner, clinic information and contact routes."
+        },
+        {
+          "question": "How are treatment claims handled?",
+          "answer": "Proposed clinical claims need suitable evidence and review before publication."
+        }
+      ]
+    },
+    {
+      "id": "hospitals",
+      "path": "/industries/hospitals",
+      "type": "icp",
+      "title": "Hospitals & Specialty Hospitals",
+      "lane": "Institution",
+      "hero": {
+        "h1": "Hospital Website Design & Digital Experience",
+        "body": "Connect departments, professionals, facilities and locations through useful information architecture.",
+        "primary_cta": {
+          "label": "Discuss Your Hospital Website",
+          "href": "/contact?intent=project&icp=hospitals"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=hospitals"
+        }
+      },
+      "focus": [
+        "Department and practitioner directories",
+        "Wayfinding, accessibility and multilingual scope",
+        "Governed content across locations"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "CRM & Appointment Systems",
+          "href": "/services/crm-appointment-systems"
+        },
+        {
+          "label": "Website Care & Governance",
+          "href": "/services/website-care-governance"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=hospitals"
+        }
+      },
+      "seo": {
+        "title": "Hospital Website Design & Digital Experience | Marketing Tusk",
+        "description": "Make hospital departments, specialist profiles, facility information and reception routes easier to find on desktop and mobile."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can the project cover multiple departments and locations?",
+          "answer": "Yes. Architecture and governance are scoped against the organization’s complexity."
+        },
+        {
+          "question": "Can multilingual and accessibility requirements be included?",
+          "answer": "Yes. Specify the languages, content owners and assessment requirements in the project brief."
+        }
+      ]
+    },
+    {
+      "id": "homecare",
+      "path": "/industries/homecare",
+      "type": "icp",
+      "title": "Homecare & Eldercare Providers",
+      "lane": "Care services",
+      "hero": {
+        "h1": "Websites for Home Healthcare & Eldercare",
+        "body": "Make service coverage, team roles and administrative arrangements easier for families and business partners to understand.",
+        "primary_cta": {
+          "label": "Discuss Your Service Website",
+          "href": "/contact?intent=project&icp=homecare"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=homecare"
+        }
+      },
+      "focus": [
+        "Geographic coverage and service boundaries",
+        "Team and administrative information",
+        "Clear, appropriate enquiry routing"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "CRM & Appointment Systems",
+          "href": "/services/crm-appointment-systems"
+        },
+        {
+          "label": "Healthcare Branding & Content",
+          "href": "/services/healthcare-branding-content"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=homecare"
+        }
+      },
+      "seo": {
+        "title": "Websites for Home Healthcare & Eldercare | Marketing Tusk Healthcare",
+        "description": "Clarify your homecare services, areas covered, visit enquiry process and contact options with a website built around visitor questions."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can the site show geographic coverage?",
+          "answer": "Yes. Publish the service areas your organization has confirmed."
+        },
+        {
+          "question": "Can clinical and nonclinical services be distinguished?",
+          "answer": "Yes. Clear service boundaries are part of the information architecture."
+        }
+      ]
+    },
+    {
+      "id": "wellness",
+      "path": "/industries/wellness",
+      "type": "icp",
+      "title": "Nonmedical Wellness & Yoga Studios",
+      "lane": "Wellness",
+      "hero": {
+        "h1": "Websites for Wellness & Yoga Studios",
+        "body": "Present your classes, schedules and nonmedical services through a distinct identity and useful booking journey.",
+        "primary_cta": {
+          "label": "Discuss Your Studio",
+          "href": "/contact?intent=project&icp=wellness"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=wellness"
+        }
+      },
+      "focus": [
+        "Class and service presentation",
+        "Studio identity and visual content",
+        "Local details and scheduling"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Branding & Content",
+          "href": "/services/healthcare-branding-content"
+        },
+        {
+          "label": "Social Media & Visual Content",
+          "href": "/services/social-media-visual-content"
+        },
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=wellness"
+        }
+      },
+      "seo": {
+        "title": "Websites for Wellness & Yoga Studios | Marketing Tusk Healthcare",
+        "description": "Present your wellness or yoga studio, schedules, locations, memberships and enquiry options with clear website copy and design."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can class schedules and bookings be included?",
+          "answer": "Yes. The implementation depends on the scheduling tools and scope you choose."
+        },
+        {
+          "question": "Can content support studio activities?",
+          "answer": "Yes. Communication is scoped to the organization’s actual nonmedical services."
+        }
+      ]
+    },
+    {
+      "id": "healthtech",
+      "path": "/industries/healthtech",
+      "type": "icp",
+      "title": "Healthcare SaaS & Digital Health",
+      "lane": "B2B",
+      "hero": {
+        "h1": "Healthcare SaaS Website Design & B2B Marketing",
+        "body": "Explain the business problem your product solves and give buyers a useful path from exploration to enquiry.",
+        "primary_cta": {
+          "label": "Discuss Your Product Website",
+          "href": "/contact?intent=project&icp=healthtech"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=healthtech"
+        }
+      },
+      "focus": [
+        "Buyer positioning and product messaging",
+        "Use-case pages and technical content",
+        "Demo and business enquiry journeys"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare B2B Growth",
+          "href": "/services/healthcare-b2b-growth"
+        },
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Healthcare SEO GEO & AEO",
+          "href": "/services/healthcare-seo-geo-aeo"
+        }
+      ],
+      "resource_topic": "b2b",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=healthtech"
+        }
+      },
+      "seo": {
+        "title": "Healthcare SaaS Website Design & B2B Marketing | Marketing Tusk",
+        "description": "Explain what your digital health product does, who it serves and how buyers can evaluate it. Explore websites, content and B2B support."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can you write for different business buyers?",
+          "answer": "Yes. Role and use-case pages can address distinct buying questions."
+        },
+        {
+          "question": "Can demo enquiries connect to our sales tools?",
+          "answer": "Yes, where supported integrations and access permissions are available."
+        }
+      ]
+    },
+    {
+      "id": "medical-devices",
+      "path": "/industries/medical-devices",
+      "type": "icp",
+      "title": "Medical Devices & Equipment",
+      "lane": "B2B",
+      "hero": {
+        "h1": "Websites for Medical Device Companies",
+        "body": "Structure specifications, documentation and business enquiries around how your customers evaluate equipment.",
+        "primary_cta": {
+          "label": "Discuss Your Catalogue",
+          "href": "/contact?intent=project&icp=medical-devices"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=medical-devices"
+        }
+      },
+      "focus": [
+        "Product and specification architecture",
+        "Verified product documentation",
+        "Distributor and institutional enquiry routes"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare B2B Growth",
+          "href": "/services/healthcare-b2b-growth"
+        },
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Healthcare Branding & Content",
+          "href": "/services/healthcare-branding-content"
+        }
+      ],
+      "resource_topic": "b2b",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=medical-devices"
+        }
+      },
+      "seo": {
+        "title": "Websites for Medical Device Companies | Marketing Tusk Healthcare",
+        "description": "Present device models, current product documents, distribution routes and procurement contacts in a clear B2B website."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can technical documents support product pages?",
+          "answer": "Yes. Approved specifications and available documents can be organized for professional buyers."
+        },
+        {
+          "question": "Can enquiries distinguish distributors and institutions?",
+          "answer": "Yes. Routing can reflect your actual sales structure."
+        }
+      ]
+    },
+    {
+      "id": "dental-labs",
+      "path": "/industries/dental-labs",
+      "type": "icp",
+      "title": "Dental Laboratories",
+      "lane": "B2B",
+      "hero": {
+        "h1": "Websites for Dental Laboratories",
+        "body": "Give practice and procurement teams a clear view of your services, documentation and enquiry options.",
+        "primary_cta": {
+          "label": "Discuss Your Lab Website",
+          "href": "/contact?intent=project&icp=dental-labs"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=dental-labs"
+        }
+      },
+      "focus": [
+        "Capabilities and technical information",
+        "Consistent business identity",
+        "Partner enquiry and administrative workflows"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare B2B Growth",
+          "href": "/services/healthcare-b2b-growth"
+        },
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Healthcare Branding & Content",
+          "href": "/services/healthcare-branding-content"
+        }
+      ],
+      "resource_topic": "b2b",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=dental-labs"
+        }
+      },
+      "seo": {
+        "title": "Websites for Dental Laboratories | Marketing Tusk Healthcare",
+        "description": "Explain your dental lab capabilities, coverage and professional enquiry routes. Keep case submission separate from the general contact form."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can the website explain lab capabilities?",
+          "answer": "Yes. Approved capability information can be organized around business partner needs."
+        },
+        {
+          "question": "Can enquiries connect with the lab’s workflow?",
+          "answer": "Administrative routing can be scoped without putting sensitive clinical files into a public form."
+        }
+      ]
+    },
+    {
+      "id": "healthcare-education",
+      "path": "/industries/healthcare-education",
+      "type": "icp",
+      "title": "Healthcare Training Institutions",
+      "lane": "B2B",
+      "hero": {
+        "h1": "Websites for Healthcare Training Institutes",
+        "body": "Organize programme scope, recognition information, faculty and admission routes with consistent presentation.",
+        "primary_cta": {
+          "label": "Discuss Your Institution",
+          "href": "/contact?intent=project&icp=healthcare-education"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=healthcare-education"
+        }
+      },
+      "focus": [
+        "Programme and factual recognition details",
+        "Faculty and institutional information",
+        "Accessible admissions enquiries"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Healthcare Branding & Content",
+          "href": "/services/healthcare-branding-content"
+        },
+        {
+          "label": "Healthcare SEO GEO & AEO",
+          "href": "/services/healthcare-seo-geo-aeo"
+        }
+      ],
+      "resource_topic": "b2b",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=healthcare-education"
+        }
+      },
+      "seo": {
+        "title": "Websites for Healthcare Training Institutes | Marketing Tusk",
+        "description": "Present programmes, schedules, entry requirements and application routes so prospective learners can compare their options."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can programme and recognition information be separated?",
+          "answer": "Yes. Course scope and verified recognition details should be easy to distinguish."
+        },
+        {
+          "question": "Can admissions enquiries be routed by programme?",
+          "answer": "Yes. The form can capture a programme choice and direct it to the responsible team."
+        }
+      ]
+    },
+    {
+      "id": "veterinary",
+      "path": "/industries/veterinary",
+      "type": "icp",
+      "title": "Veterinary Clinics & Animal Hospitals",
+      "lane": "Care services",
+      "hero": {
+        "h1": "Website Design for Veterinary Clinics",
+        "body": "Present your team, facilities, opening hours and appointment options through a clear digital presence.",
+        "primary_cta": {
+          "label": "Discuss Your Veterinary Website",
+          "href": "/contact?intent=project&icp=veterinary"
+        },
+        "secondary_cta": {
+          "label": "Get a Free Audit",
+          "href": "/contact?intent=audit&icp=veterinary"
+        }
+      },
+      "focus": [
+        "Veterinarian and facility information",
+        "Service, location and hours clarity",
+        "Usable appointment and contact routes"
+      ],
+      "recommended_services": [
+        {
+          "label": "Healthcare Websites & Accessibility",
+          "href": "/services/healthcare-websites-accessibility"
+        },
+        {
+          "label": "Local Presence & Listings",
+          "href": "/services/local-presence-listings"
+        },
+        {
+          "label": "Website Care & Governance",
+          "href": "/services/website-care-governance"
+        }
+      ],
+      "resource_topic": "website",
+      "closing": {
+        "heading": "What would you like to improve?",
+        "body": "Tell us about your organization and the project you have in mind.",
+        "cta": {
+          "label": "Let’s Connect",
+          "href": "/contact?intent=project&icp=veterinary"
+        }
+      },
+      "seo": {
+        "title": "Website Design for Veterinary Clinics | Marketing Tusk Healthcare",
+        "description": "Make veterinary services, clinic hours, directions and contact routes easy to find for pet owners. Explore website and listings support."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval",
+      "faqs": [
+        {
+          "question": "Can appointments and emergency contact information be distinct?",
+          "answer": "Yes. The website can clearly display the options your organization actually provides."
+        },
+        {
+          "question": "Can several veterinarians be represented?",
+          "answer": "Yes. Approved team profiles can sit alongside facility and service information."
+        }
+      ]
+    },
+    {
+      "id": "industries",
+      "path": "/industries",
+      "type": "icp_hub",
+      "hero": {
+        "h1": "Digital services by healthcare sector",
+        "body": "Explore digital services for practices, centres, institutions and healthcare businesses."
+      },
+      "filters": [
+        "All",
+        "Clinic",
+        "Therapy",
+        "Institution",
+        "Traditional care",
+        "Care services",
+        "Wellness",
+        "B2B"
+      ],
+      "cards": "all_approved_icps",
+      "seo": {
+        "title": "Website & Marketing Services by Healthcare Sector | Marketing Tusk",
+        "description": "Find digital services for dental practices, clinics, diagnostic centres, hospitals, wellness organizations and healthcare businesses."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "clinic-website-checklist",
+      "path": "/resources/clinic-website-checklist",
+      "type": "resource",
+      "title": "Clinic Website Checklist",
+      "hero": {
+        "h1": "Clinic Website Checklist",
+        "body": "A practical review of your website’s information and enquiry experience."
+      },
+      "includes": [
+        "Identity and location details",
+        "Service and practitioner information",
+        "Mobile navigation and contact routes",
+        "Accessibility and update ownership"
+      ],
+      "form": {
+        "type": "resource_download",
+        "heading": "Get the free resource",
+        "cta": "Get the Download",
+        "resource_id": "clinic-website-checklist"
+      },
+      "microcopy": "Enter your business email to access the file. Marketing updates are optional.",
+      "related_service": "/services/healthcare-websites-accessibility",
+      "asset": {
+        "format": "PDF",
+        "delivery": "gated_signed_download_after_accepted_request",
+        "production_status": "ASSET_TO_CREATE_BEFORE_PUBLICATION"
+      },
+      "seo": {
+        "title": "Clinic Website Checklist PDF | Marketing Tusk Healthcare",
+        "description": "Download a checklist to review clinic website content, location details, mobile navigation and contact routes before or after launch."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "branch-information-register",
+      "path": "/resources/branch-information-register",
+      "type": "resource",
+      "title": "Branch Information Register",
+      "hero": {
+        "h1": "Branch Information Register",
+        "body": "A reusable worksheet for keeping location details consistent."
+      },
+      "includes": [
+        "Branch names, addresses and contacts",
+        "Operating hours and source records",
+        "Assigned update owners",
+        "Review dates and correction status"
+      ],
+      "form": {
+        "type": "resource_download",
+        "heading": "Get the free resource",
+        "cta": "Get the Download",
+        "resource_id": "branch-information-register"
+      },
+      "microcopy": "Enter your business email to access the file. Marketing updates are optional.",
+      "related_service": "/services/website-care-governance",
+      "asset": {
+        "format": "PDF",
+        "delivery": "gated_signed_download_after_accepted_request",
+        "production_status": "ASSET_TO_CREATE_BEFORE_PUBLICATION"
+      },
+      "seo": {
+        "title": "Clinic Branch Information Register PDF | Marketing Tusk Healthcare",
+        "description": "Download a worksheet for recording clinic branch names, addresses, hours, phone numbers and the owner responsible for each update."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "healthcare-website-brief",
+      "path": "/resources/healthcare-website-brief",
+      "type": "resource",
+      "title": "Healthcare Website Brief",
+      "hero": {
+        "h1": "Healthcare Website Brief",
+        "body": "Organize the inputs your website team needs before design starts."
+      },
+      "includes": [
+        "Audiences and priority tasks",
+        "Pages, content and source owners",
+        "Forms and integrations",
+        "Scope and launch requirements"
+      ],
+      "form": {
+        "type": "resource_download",
+        "heading": "Get the free resource",
+        "cta": "Get the Download",
+        "resource_id": "healthcare-website-brief"
+      },
+      "microcopy": "Enter your business email to access the file. Marketing updates are optional.",
+      "related_service": "/services/healthcare-websites-accessibility",
+      "asset": {
+        "format": "PDF",
+        "delivery": "gated_signed_download_after_accepted_request",
+        "production_status": "ASSET_TO_CREATE_BEFORE_PUBLICATION"
+      },
+      "seo": {
+        "title": "Healthcare Website Brief Template PDF | Marketing Tusk Healthcare",
+        "description": "Download a planning brief for your healthcare website covering priority pages, approved content, enquiry routes and project ownership."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "resources",
+      "path": "/resources",
+      "type": "resource_hub",
+      "hero": {
+        "h1": "Healthcare website resources",
+        "body": "Worksheets, checklists and briefs for managing clinic websites, local listings and enquiries."
+      },
+      "cards": "approved_resources_with_actual_assets",
+      "seo": {
+        "title": "Healthcare Website Resources & Worksheets | Marketing Tusk Healthcare",
+        "description": "Print clinic website, listing, content review and enquiry worksheets. Download PDF checklists and planning briefs for healthcare teams."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "blog",
+      "path": "/blog",
+      "type": "blog_hub",
+      "hero": {
+        "h1": "Healthcare articles, guides and answers",
+        "body": "Articles on websites, information quality, search and digital administration."
+      },
+      "filters": [
+        "All",
+        "Websites",
+        "Local Presence",
+        "Search & AI",
+        "Brand & Content",
+        "Systems"
+      ],
+      "cards": "published_blog_posts",
+      "seo": {
+        "title": "Healthcare Website & Marketing Blog | Marketing Tusk Healthcare",
+        "description": "Read practical guides and short answers on healthcare websites, local listings, search and AI discovery, branding and enquiry workflows."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "contact",
+      "path": "/contact",
+      "type": "contact",
+      "hero": {
+        "h1": "Contact Marketing Tusk Healthcare",
+        "body": "Discuss a project or request a Visibility & Trust Audit."
+      },
+      "form": {
+        "type": "adaptive_contact",
+        "intent_choices": [
+          {
+            "value": "project",
+            "label": "Discuss a project"
+          },
+          {
+            "value": "audit",
+            "label": "Get a free audit"
+          },
+          {
+            "value": "help-me-choose",
+            "label": "Help me choose"
+          }
+        ],
+        "cta_by_intent": {
+          "project": "Send Project Enquiry",
+          "audit": "Request Free Audit",
+          "help-me-choose": "Ask for Guidance"
+        }
+      },
+      "aside": {
+        "heading": "Prefer a direct conversation?",
+        "body": "Contact our team using the verified business details shown here.",
+        "business_email": "Healthcare@marketingtusk.com",
+        "business_phone": "+91 8920-382016",
+        "booking_url": null,
+        "display_policy": "show_only_verified_configured_channels"
+      },
+      "success": {
+        "heading": "Thank you. Your enquiry is received.",
+        "body": "Our team will review the details and respond using your chosen contact channel.",
+        "no_automatic_booking": true
+      },
+      "small_print": "Please share business information only. Do not include patient details or medical records.",
+      "seo": {
+        "title": "Contact Marketing Tusk Healthcare",
+        "description": "Contact Marketing Tusk Healthcare to discuss a website, brand, search or enquiry project, or request a free digital presence audit."
+      },
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "privacy",
+      "path": "/privacy",
+      "type": "legal",
+      "index_policy": "noindex_follow",
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "h1": "Privacy Notice",
+      "opening": "This notice explains how Marketing Tusk handles information submitted through this healthcare website.",
+      "sections": [
+        {
+          "heading": "Information we collect",
+          "body": "Business enquiries may include your name, organization, business email, preferred contact details and project information. Resource requests include the details needed to provide access to the requested file."
+        },
+        {
+          "heading": "How we use it",
+          "body": "We use submitted information to respond to your enquiry, provide the requested resource and maintain a record of that interaction. Optional marketing updates use a separate choice."
+        },
+        {
+          "heading": "Your choices",
+          "body": "You can decline optional updates and contact the privacy contact listed in the final notice about your information."
+        }
+      ],
+      "required_policy_configuration": [
+        "verified_controller_name",
+        "privacy_contact",
+        "actual_processors_and_storage",
+        "retention_periods",
+        "rights_handling",
+        "cookies_and_analytics_choices",
+        "applicable_legal_review"
+      ],
+      "launch_rule": "complete_actual_policy_before_accepting_public_submissions",
+      "seo": {
+        "title": "Privacy Notice | Marketing Tusk Healthcare",
+        "description": "See how Marketing Tusk Healthcare handles website enquiries and optional resource requests, and how to contact us about your information."
+      }
+    },
+    {
+      "id": "terms",
+      "path": "/terms",
+      "type": "legal",
+      "index_policy": "noindex_follow",
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "h1": "Website Terms",
+      "opening": "This website presents Marketing Tusk Healthcare’s services and business resources. Project deliverables, fees and timelines are agreed in a separate proposal and contract.",
+      "sections": [
+        {
+          "heading": "Website information",
+          "body": "Service descriptions and starting prices describe an entry scope. A project quotation confirms the work and applicable additional costs."
+        },
+        {
+          "heading": "Audit scope",
+          "body": "Digital-presence audits concern public information and experience. They do not certify clinical quality, accreditation, legal compliance or future search performance."
+        },
+        {
+          "heading": "Resources",
+          "body": "Resources support business planning and do not replace professional advice or an agreed project assessment."
+        }
+      ],
+      "required_policy_configuration": [
+        "legal_entity",
+        "business_contact",
+        "applicable_jurisdiction",
+        "intellectual_property_and_licensing",
+        "resource_use_terms",
+        "legal_review"
+      ],
+      "launch_rule": "approved_final_terms_required",
+      "seo": {
+        "title": "Website Terms | Marketing Tusk Healthcare",
+        "description": "Read the terms for using the Marketing Tusk Healthcare website and its informational resources."
+      }
+    },
+    {
+      "id": "thank-you",
+      "path": "/thank-you",
+      "type": "utility",
+      "index_policy": "noindex_follow",
+      "h1": "Thank you. Your enquiry is received.",
+      "body": "Our team will review your request and respond using the details you provided.",
+      "cta": {
+        "label": "Explore Services",
+        "href": "/services"
+      },
+      "render_condition": "confirmed_server_acceptance_only",
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "seo": {
+        "title": "Enquiry Next Steps | Marketing Tusk Healthcare",
+        "description": "Find the next step after making a Marketing Tusk Healthcare enquiry."
+      }
+    },
+    {
+      "id": "resource-download",
+      "path": "/resource-download",
+      "type": "utility",
+      "index_policy": "noindex_follow",
+      "h1": "Your resource is ready.",
+      "body": "Use the download link below to access the requested file.",
+      "render_condition": "accepted_resource_request_and_valid_download_grant",
+      "error": "This download link has expired. Request a fresh link from the resource page.",
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "seo": {
+        "title": "Resource Download Help | Marketing Tusk Healthcare",
+        "description": "Find the correct resource page to request a secure Marketing Tusk Healthcare download."
+      }
+    },
+    {
+      "id": "blog-healthcare-website-information-checklist",
+      "path": "/blog/healthcare-website-information-checklist",
+      "type": "blog_post",
+      "title": "What Should a Healthcare Website Make Easy to Find?",
+      "category": "Websites",
+      "summary": "A useful healthcare website makes organization details, service information and contact options easy to find. Start with the questions visitors need answered, then build the pages around those tasks.",
+      "intro": "A clinic website should help visitors understand the organization, find current details and complete an appropriate contact task. It does not need to overwhelm them with repeated messages or large menus.",
+      "sections": [
+        {
+          "heading": "Start with the visitor’s task",
+          "body": "Someone opening a clinic website may need its address, opening hours, a particular service page or a contact route. Organize the site around these practical needs. A long introduction should not prevent a visitor from finding a location or asking an administrative question.\n\nChoose a small set of priority tasks and make them visible from the homepage and mobile menu. The wording should tell visitors where a link leads."
+        },
+        {
+          "heading": "Keep organization details consistent",
+          "body": "Check the name, address, phone number and operating details shown in the header, footer, contact page and location pages. If the same organization has several branches, make the location context explicit.\n\nWhen details disagree, confirm the correct version with the person responsible for the organization. Do not update a listing simply because another public source looks newer."
+        },
+        {
+          "heading": "Give service and professional information a clear home",
+          "body": "A service page should explain the approved scope and identify the relevant administrative contact. Professional profiles should use verified information and appropriate titles.\n\nFor larger organizations, department and practitioner directories can reduce navigation effort. A directory is useful only when its details have an owner and a review date."
+        },
+        {
+          "heading": "Follow the contact journey on a phone",
+          "body": "Open a service page, select its contact action and follow the route to completion. A button labelled “Book” should make the next action understandable. If it opens a general enquiry form, the page should explain that submitting an enquiry does not confirm an appointment.\n\nCheck whether the form has visible labels, readable instructions and useful error messages. Ask only for the information needed for the stated task."
+        },
+        {
+          "heading": "Assign responsibility for updates",
+          "body": "Create a simple register of important pages, the responsible owner and the next review date. A website redesign does not solve stale information if no one owns the content afterward.\n\nStart with the high-impact details: locations, contact information, team profiles, service scope and enquiry routes. Then add technical maintenance and other content checks to the same responsibility plan."
+        }
+      ],
+      "related_services": [
+        "/services/healthcare-websites-accessibility",
+        "/services/website-care-governance"
+      ],
+      "cta": {
+        "label": "Get the Clinic Website Checklist",
+        "href": "/resources/clinic-website-checklist"
+      },
+      "author": {
+        "name": "Marketing Tusk Healthcare",
+        "type": "Organization"
+      },
+      "reviewer": null,
+      "date_published": "2026-10-24",
+      "date_modified": "2026-10-24",
+      "cover_image": null,
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "references": [],
+      "seo": {
+        "title": "What Should a Healthcare Website Make Easy to Find? | Marketing Tusk",
+        "description": "Use this checklist to organize your healthcare website around practitioner details, locations, services and the contact routes visitors need."
+      },
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "blog-clinic-information-across-listings",
+      "path": "/blog/clinic-information-across-listings",
+      "type": "blog_post",
+      "title": "How to Keep Clinic Information Consistent Across Listings",
+      "category": "Local Presence",
+      "summary": "Maintain a single approved record of each location’s name, address, contact details and hours. Compare public sources against that record, then correct owned information through the appropriate authorized accounts.",
+      "intro": "Consistency starts with an approved business record, not a decision to copy whichever online listing appears first. Different public sources may reflect old locations, practitioner profiles or separate branches.",
+      "sections": [
+        {
+          "heading": "Create the approved location record",
+          "body": "For each location, record its official public-facing name, full address, postal code, business phone and operating details. Assign the person who can confirm those facts. Keep practitioner and organization information separate where they represent different profiles.\n\nUse the record as the reference for owned website pages and authorized listing updates."
+        },
+        {
+          "heading": "List the public places where details appear",
+          "body": "Start with the official website and Google Business Profile. Add official social profiles and relevant directories that show contact information. Record the URL and inspection date for each source.\n\nA directory is a useful comparison point; it is not automatically authoritative. Mark blocked or inaccessible sources as unresolved rather than assuming their information is absent."
+        },
+        {
+          "heading": "Record conflicts before making corrections",
+          "body": "Write down both versions of a conflicting address, phone number or schedule. A previous location may be historical rather than an error. Ask the owner to resolve the difference and preserve a note explaining the correction.\n\nFor chains, a shared business phone may be intentional. The objective is clear and accurate routing, not forcing every branch into the same format."
+        },
+        {
+          "heading": "Correct the owned sources and track requests",
+          "body": "Use authorized business accounts for changes. Record what was changed, who approved it and when it was submitted. Third-party directories may need a correction request instead of a direct edit.\n\nSubmission is not proof that the correction is live. Recheck the public display and keep pending requests visible."
+        },
+        {
+          "heading": "Review changes as part of normal operations",
+          "body": "A move, new number or change in operating hours should trigger a review across the source register. Repeat the review on a regular schedule that fits the organization.\n\nA simple worksheet is enough when it clearly records the branch, source, correct value, owner, review date and unresolved item."
+        }
+      ],
+      "related_services": [
+        "/services/local-presence-listings",
+        "/services/website-care-governance"
+      ],
+      "cta": {
+        "label": "Get the Branch Information Register",
+        "href": "/resources/branch-information-register"
+      },
+      "author": {
+        "name": "Marketing Tusk Healthcare",
+        "type": "Organization"
+      },
+      "reviewer": null,
+      "date_published": "2026-10-24",
+      "date_modified": "2026-10-24",
+      "cover_image": null,
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "references": [],
+      "seo": {
+        "title": "Keep Clinic Information Consistent Across Listings | Marketing Tusk",
+        "description": "Keep clinic names, addresses, phone numbers and hours consistent across branch pages and business listings with one approved record."
+      },
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "blog-healthcare-seo-geo-aeo-explained",
+      "path": "/blog/healthcare-seo-geo-aeo-explained",
+      "type": "blog_post",
+      "title": "SEO, GEO, AEO and AIO for Healthcare Businesses",
+      "category": "Search & AI",
+      "summary": "SEO improves discovery in search. AEO puts the direct answer first. GEO helps generative systems identify and cite useful information. AIO is used here to mean optimizing the same information for AI search experiences, including AI Overviews.",
+      "intro": "Use the four labels to plan how a single page will be discovered, understood and referenced. For a clinic, that starts with accurate service and location facts, a clear first answer and a reliable contact route.",
+      "sections": [
+        {
+          "heading": "What each term describes",
+          "body": "SEO concerns website discoverability through search. AEO is commonly used for content that answers questions clearly. GEO is commonly used for visibility and representation in generative search experiences.\n\nThese terms overlap. They are most useful when they describe actual work: improving pages, fixing technical issues and creating relevant information."
+        },
+        {
+          "heading": "Start with a useful page structure",
+          "body": "Give each page a clear purpose. A service page should answer a service question. A location page should explain that location. An article should address one useful topic and link to relevant supporting information.\n\nAvoid creating nearly identical pages for every keyword variation or city. Similar searches often belong on one well-developed page."
+        },
+        {
+          "heading": "Add answers that deserve to be read",
+          "body": "Lead with the main answer, then explain the details a reader needs to act. Use examples, comparison tables or an original checklist when they help. Identify the author and, where relevant, the qualified reviewer.\n\nGoogle’s guidance emphasizes original useful content and technical clarity. It does not require special AI markup or an llms.txt file for Google Search visibility [G1]."
+        },
+        {
+          "heading": "Implement accurate metadata",
+          "body": "Use a descriptive title, an appropriate description and a canonical URL for each public page. Where Article structured data is relevant, make author, image and publication dates match the visible article [G2].\n\nVisible questions and answers can still be useful. Google retired FAQ rich results in 2026, so FAQ content should serve the reader rather than promise that search feature [G3]."
+        },
+        {
+          "heading": "Measure what you can actually observe",
+          "body": "Track useful pages, search impressions, relevant enquiries and their outcomes. Review available generative-search reporting and record answer-engine observations with dates and context.\n\nAn occasional AI citation is not a stable ranking. No provider can guarantee that a search or answer engine will include a particular page. Use evidence to decide what to improve next."
+        },
+        {
+          "heading": "What to check in AI search results",
+          "body": "Choose a few questions people actually ask, such as which location offers a service or how to reach reception. Record the question, date, platform and any citation. If an answer includes outdated information, compare it with the sources you control and fix the underlying record. Track changes over time instead of treating one result as a ranking."
+        }
+      ],
+      "related_services": [
+        "/services/healthcare-seo-geo-aeo",
+        "/services/healthcare-websites-accessibility"
+      ],
+      "cta": {
+        "label": "Discuss Search Visibility",
+        "href": "/contact?intent=project&service=search"
+      },
+      "author": {
+        "name": "Marketing Tusk Healthcare",
+        "type": "Organization"
+      },
+      "reviewer": null,
+      "date_published": "2026-10-24",
+      "date_modified": "2026-10-24",
+      "cover_image": null,
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "references": [
+        "G1",
+        "G2",
+        "G3"
+      ],
+      "seo": {
+        "title": "Healthcare SEO, GEO, AEO & AIO Explained | Marketing Tusk Healthcare",
+        "description": "Learn what SEO, GEO, AEO and AIO mean for healthcare websites and how technical foundations, direct answers and verified sources work together."
+      },
+      "index_policy": "public_after_editorial_approval"
+    },
+    {
+      "id": "blog-healthcare-website-brief",
+      "path": "/blog/healthcare-website-brief",
+      "type": "blog_post",
+      "title": "What to Include in a Healthcare Website Brief",
+      "category": "Websites",
+      "summary": "A useful website brief defines the audiences, priority tasks, approved content, page structure, enquiry requirements and ownership needed to build and maintain the site.",
+      "intro": "A clear brief helps the team agree on what the website must do before design begins. It also makes proposals easier to compare because scope, responsibility and acceptance are visible.",
+      "sections": [
+        {
+          "heading": "Describe the organization and the audience",
+          "body": "State whether the website represents one practice, a group of branches, an institution or a healthcare business. Identify the people who need to use it and the tasks they need to complete.\n\nFor a healthcare B2B company, those tasks may include understanding a product or requesting a demonstration. For a clinic, they may include finding factual information and contacting reception."
+        },
+        {
+          "heading": "Define the priority pages",
+          "body": "List the pages needed at launch and explain their purpose. Avoid treating every possible topic as a required page. Separate service information, location information and articles so each page has a clear job.\n\nA simple sitemap can show which pages are essential and which can be developed later."
+        },
+        {
+          "heading": "Identify approved content and assets",
+          "body": "Record who owns the logo, photographs, professional information and written content. Confirm the rights to use media and the person who can approve factual statements.\n\nIf information is missing, keep it on an input checklist. Do not allow placeholder qualifications, invented testimonials or unsupported figures to become launch content."
+        },
+        {
+          "heading": "Specify enquiry and integration needs",
+          "body": "Explain the information each form needs and who receives it. Decide whether submission requests contact or creates a confirmed booking. List existing tools and the access needed to integrate them.\n\nThe brief should also distinguish a request for a resource from permission to receive marketing updates."
+        },
+        {
+          "heading": "Agree on acceptance and ownership",
+          "body": "Include mobile behavior, accessibility checks, content approval, form states and the responsibilities for maintenance. Specify what happens if an integration is not ready.\n\nA website is ready when its agreed pages and journeys work with approved content. A visual mockup alone does not demonstrate a working enquiry or download."
+        }
+      ],
+      "related_services": [
+        "/services/healthcare-websites-accessibility",
+        "/services/crm-appointment-systems"
+      ],
+      "cta": {
+        "label": "Get the Healthcare Website Brief",
+        "href": "/resources/healthcare-website-brief"
+      },
+      "author": {
+        "name": "Marketing Tusk Healthcare",
+        "type": "Organization"
+      },
+      "reviewer": null,
+      "date_published": "2026-10-24",
+      "date_modified": "2026-10-24",
+      "cover_image": null,
+      "status": "BUILT_FOR_PRIVATE_REVIEW",
+      "references": [],
+      "seo": {
+        "title": "What to Include in a Healthcare Website Brief | Marketing Tusk",
+        "description": "Prepare a healthcare website brief covering audiences, priority pages, approved content, enquiry routes and launch responsibilities."
+      },
+      "index_policy": "public_after_editorial_approval"
+    }
+  ],
+  "sources": {
+    "G1": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+    "G2": "https://developers.google.com/search/docs/appearance/structured-data/article",
+    "G3": "https://developers.google.com/search/updates"
+  },
+  "footer": {
+    "brand_line": "Digital Presence. Credibility. Experience.",
+    "about": "The healthcare vertical of Marketing Tusk.",
+    "legal_links": [
+      "/privacy",
+      "/terms"
+    ],
+    "scope": "Digital services and audits concern business information and experience.",
+    "contact_display": "verified_config_only"
+  },
+  "publishing_rules": [
+    "Do not render proposed prices on production until business confirmation.",
+    "No process section or numbered methodology on commercial pages.",
+    "No fabricated proof, clinical guarantees, private audit data or unreviewed report samples.",
+    "Do not publish blog/resource cards without their completed approved destination.",
+    "Complete privacy/terms configuration and intake integration before public collection."
+  ]
+}

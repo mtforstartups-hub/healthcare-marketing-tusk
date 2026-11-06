@@ -1,0 +1,2 @@
+import {Icon} from '../components/icons';
+export default function NotFound(){return <main id="main"><section className="section utility-section"><div className="container narrow"><span className="eyebrow">PAGE NOT FOUND</span><h1>Let’s get you<br/>back on track.</h1><p>The page may have moved. Explore our services or tell us what you are looking for.</p><div className="button-row"><a className="button primary" href="/">Back to Home<Icon name="arrow" size={18}/></a><a className="button secondary" href="/contact">Contact Our Team</a></div></div></section></main>}

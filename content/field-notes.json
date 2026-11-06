@@ -1,0 +1,2271 @@
+[
+  {
+    "slug": "dental-appointment-confirmation",
+    "path": "/blog/dental-appointment-confirmation",
+    "title": "What should a dental appointment confirmation say?",
+    "kind": "article",
+    "topic": "enquiries",
+    "category": "Enquiries and appointments",
+    "summary": "A dental website should confirm whether it received a request or booked an appointment.",
+    "seoTitle": "What should a dental appointment confirmation say?",
+    "seoDescription": "A dental website should confirm whether it received a request or booked an appointment.",
+    "answer": "A dental website should confirm whether it received a request or booked an appointment. Show the branch, the next step, the expected reply window if the front desk can meet it, and a phone number for changes.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Write for both booking states"
+      },
+      {
+        "type": "paragraph",
+        "text": "If the practice confirms by phone, say “We received your request for the South branch. Reception will contact you to agree a time.” Save “Your appointment is confirmed” for a booking that exists in the schedule. Display the same state in the web message and any email or text."
+      },
+      {
+        "type": "heading",
+        "text": "Test the branch and callback"
+      },
+      {
+        "type": "paragraph",
+        "text": "Send a fictional request after closing and follow it through the next staffed shift. Check who receives it, whether the branch is clear and whether anyone can mark it complete. If two people can reply, assign one owner and one backup so the visitor does not receive conflicting times."
+      }
+    ],
+    "related": [
+      "clinic-enquiry-form-field-audit",
+      "clinic-appointment-form-fallback",
+      "clinic-enquiry-source-tracking"
+    ],
+    "service": "systems",
+    "sector": "dental",
+    "worksheet": "clinic-enquiry-routing-map",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "dental-chain-branch-opening-launch",
+    "path": "/blog/dental-chain-branch-opening-launch",
+    "title": "How to launch a new dental branch online",
+    "kind": "article",
+    "topic": "listings",
+    "category": "Local search and listings",
+    "summary": "Create an approved record for the new branch before announcing it.",
+    "seoTitle": "How to launch a new dental branch online",
+    "seoDescription": "Create an approved record for the new branch before announcing it.",
+    "answer": "Create an approved record for the new branch before announcing it. Use the same opening date, address, public number and booking status on the group website, the branch page and any listings the group manages.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Separate opening from booking"
+      },
+      {
+        "type": "paragraph",
+        "text": "A branch may be accepting requests before it sees visitors. Say “Opening on 15 June. Request a callback” if that is what the team can deliver. Keep a single future branch URL, and update that page when reception and opening hours are confirmed."
+      },
+      {
+        "type": "heading",
+        "text": "Walk the public route"
+      },
+      {
+        "type": "paragraph",
+        "text": "Check the map pin against the actual entrance. Call the public number, open the directions link and ask reception what it can book. Record who will update the website and listing on opening day and who will remove the temporary banner."
+      }
+    ],
+    "related": [
+      "clinic-holiday-hours-workflow",
+      "clinic-relocation-search-checklist",
+      "clinic-business-listing-duplicates"
+    ],
+    "service": "local",
+    "sector": "dental-chains",
+    "worksheet": "healthcare-listing-update-log",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "dermatology-service-availability",
+    "path": "/blog/dermatology-service-availability",
+    "title": "How should a skin clinic show which services are available where?",
+    "kind": "article",
+    "topic": "websites",
+    "category": "Healthcare websites",
+    "summary": "Give each service one clear description and link it to the branches that actually offer it.",
+    "seoTitle": "How should a skin clinic show which services are available where?",
+    "seoDescription": "Give each service one clear description and link it to the branches that actually offer it.",
+    "answer": "Give each service one clear description and link it to the branches that actually offer it. If a branch requires a consultation before accepting an appointment request, say so near the contact option.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Use a branch availability record"
+      },
+      {
+        "type": "paragraph",
+        "text": "Keep a table with the service, branch, booking route and person who confirmed availability. For example, if both clinics offer consultations but only one offers a specific procedure, the service page should show that difference before a visitor chooses a location."
+      },
+      {
+        "type": "heading",
+        "text": "Test the visitor’s choice"
+      },
+      {
+        "type": "paragraph",
+        "text": "Start from the service page on a phone and pick a branch. Confirm the destination still shows the selected service and the receiving team knows which location the visitor chose. Repeat after staff or schedules change so the page does not rely on an old roster."
+      }
+    ],
+    "related": [
+      "healthcare-website-url-migration-map",
+      "healthcare-website-rfp-deliverables",
+      "clinic-website-mobile-phone-links"
+    ],
+    "service": "website",
+    "sector": "dermatology",
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "hair-clinic-consultation-page",
+    "path": "/blog/hair-clinic-consultation-page",
+    "title": "What belongs on a hair restoration consultation page?",
+    "kind": "article",
+    "topic": "brand",
+    "category": "Brand and content",
+    "summary": "Explain who handles the first consultation, where it takes place, how to request one and what the clinic can confirm before the visit.",
+    "seoTitle": "What belongs on a hair restoration consultation page?",
+    "seoDescription": "Explain who handles the first consultation, where it takes place, how to request one and what the clinic can confirm before the visit.",
+    "answer": "Explain who handles the first consultation, where it takes place, how to request one and what the clinic can confirm before the visit. Keep procedure information separate from the appointment offer.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Answer practical questions first"
+      },
+      {
+        "type": "paragraph",
+        "text": "Use the clinic’s own wording for the consultation type, location and reply process. If the practice charges a consultation fee and has approved a current price, put it next to the contact option. Avoid making visitors read a results gallery to find basic information."
+      },
+      {
+        "type": "heading",
+        "text": "Review promises before launch"
+      },
+      {
+        "type": "paragraph",
+        "text": "Check headings, captions and booking text for statements that imply an outcome or timeline. Give each claim an owner and a source, and remove anything the team cannot support. Send a fictional request and check that its confirmation only promises the next step the clinic can deliver."
+      }
+    ],
+    "related": [
+      "healthcare-brand-fact-sheet",
+      "healthcare-social-profile-launch-checklist",
+      "wellness-membership-page-facts"
+    ],
+    "service": "branding",
+    "sector": "hair-restoration",
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "physiotherapy-mobile-arrival-directions",
+    "path": "/blog/physiotherapy-mobile-arrival-directions",
+    "title": "How to write useful arrival directions for a physiotherapy centre",
+    "kind": "article",
+    "topic": "websites",
+    "category": "Healthcare websites",
+    "summary": "Put the address, map link, entrance and reception instructions on the location page.",
+    "seoTitle": "How to write useful arrival directions for a physiotherapy centre",
+    "seoDescription": "Put the address, map link, entrance and reception instructions on the location page.",
+    "answer": "Put the address, map link, entrance and reception instructions on the location page. Add verified details about steps, lifts or parking when they affect how someone reaches the centre.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Describe the last 50 metres"
+      },
+      {
+        "type": "paragraph",
+        "text": "A map may stop at the building entrance while reception is through another door. Ask the front desk to describe the route it gives callers. “Use the side entrance beside the pharmacy and take the lift to level two” is useful when the team has walked and verified that route."
+      },
+      {
+        "type": "heading",
+        "text": "Test from a phone"
+      },
+      {
+        "type": "paragraph",
+        "text": "Open the page using a mobile connection, tap the directions link and compare the pin with the entrance. Ask someone unfamiliar with the building to follow the instructions. Assign the location page to the person who learns first when access arrangements change."
+      }
+    ],
+    "related": [
+      "healthcare-website-url-migration-map",
+      "healthcare-website-rfp-deliverables",
+      "clinic-website-mobile-phone-links"
+    ],
+    "service": "website",
+    "sector": "physiotherapy",
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "therapy-centre-intake-options",
+    "path": "/blog/therapy-centre-intake-options",
+    "title": "How should therapy centres separate parent, professional and partner enquiries?",
+    "kind": "article",
+    "topic": "enquiries",
+    "category": "Enquiries and appointments",
+    "summary": "Offer distinct contact options only when they reach different teams or require different follow-up.",
+    "seoTitle": "How should therapy centres separate parent, professional and partner enquiries?",
+    "seoDescription": "Offer distinct contact options only when they reach different teams or require different follow-up.",
+    "answer": "Offer distinct contact options only when they reach different teams or require different follow-up. Label each option in plain language so the sender can choose without knowing the centre’s internal structure.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Start with the receiving teams"
+      },
+      {
+        "type": "paragraph",
+        "text": "Map three examples: a parent asking about availability, a professional referring someone and a school asking about collaboration. Give each a first owner and a fallback. If two options go to the same person and need the same details, use one route with an enquiry type selector."
+      },
+      {
+        "type": "heading",
+        "text": "Keep the first form light"
+      },
+      {
+        "type": "paragraph",
+        "text": "Collect contact details and a request category first. Leave documents and sensitive background for the centre’s approved channel. Send a fictional request for each route and confirm the reply explains who will respond and whether anything has been arranged."
+      }
+    ],
+    "related": [
+      "clinic-enquiry-form-field-audit",
+      "clinic-appointment-form-fallback",
+      "clinic-enquiry-source-tracking"
+    ],
+    "service": "systems",
+    "sector": "therapy-centres",
+    "worksheet": "clinic-enquiry-routing-map",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "mental-health-practice-contact-page",
+    "path": "/blog/mental-health-practice-contact-page",
+    "title": "What should a mental health practice contact page make clear?",
+    "kind": "article",
+    "topic": "enquiries",
+    "category": "Enquiries and appointments",
+    "summary": "State which requests the practice can handle, when staff monitor them and what the visitor should expect after sending one.",
+    "seoTitle": "What should a mental health practice contact page make clear?",
+    "seoDescription": "State which requests the practice can handle, when staff monitor them and what the visitor should expect after sending one.",
+    "answer": "State which requests the practice can handle, when staff monitor them and what the visitor should expect after sending one. Place the practice’s verified urgent support instructions where visitors can see them before submitting.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Label the ordinary contact route"
+      },
+      {
+        "type": "paragraph",
+        "text": "Use language such as “Ask about appointments” when the form starts a conversation. If the form is checked on weekdays, say so rather than implying someone is on call. Use a separate, approved route for any information the team should not receive in a general inbox."
+      },
+      {
+        "type": "heading",
+        "text": "Check out-of-hours wording"
+      },
+      {
+        "type": "paragraph",
+        "text": "Have the practice owner approve and periodically recheck the urgent support information it chooses to display. Test the page after hours and confirm the acknowledgement describes a routine enquiry. Make sure reception can identify a request without the sender adding private details."
+      }
+    ],
+    "related": [
+      "clinic-enquiry-form-field-audit",
+      "clinic-appointment-form-fallback",
+      "clinic-enquiry-source-tracking"
+    ],
+    "service": "systems",
+    "sector": "mental-health",
+    "worksheet": "clinic-enquiry-routing-map",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "fertility-centre-first-consultation-page",
+    "path": "/blog/fertility-centre-first-consultation-page",
+    "title": "How should a fertility centre design its first consultation page?",
+    "kind": "article",
+    "topic": "websites",
+    "category": "Healthcare websites",
+    "summary": "Show how to reach the centre, who will respond and whether a request is enough to hold a time.",
+    "seoTitle": "How should a fertility centre design its first consultation page?",
+    "seoDescription": "Show how to reach the centre, who will respond and whether a request is enough to hold a time.",
+    "answer": "Show how to reach the centre, who will respond and whether a request is enough to hold a time. Make the first step easy without asking visitors to describe their medical history in the general website form.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Plan for a discreet first contact"
+      },
+      {
+        "type": "paragraph",
+        "text": "A visitor may prefer a callback over a detailed email. Offer contact preferences the centre can actually honour, and keep the confirmation neutral enough to make sense on a shared device. Send any preparation instructions through the centre’s approved route once an appointment has been agreed."
+      },
+      {
+        "type": "heading",
+        "text": "Review the page with reception"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask the team to walk through a fictional enquiry on a phone. Check the branch, callback instructions and any published hours. Keep outcome figures, testimonials or other claims out of the booking flow unless the responsible team has approved exactly what can be said and shown."
+      }
+    ],
+    "related": [
+      "healthcare-website-url-migration-map",
+      "healthcare-website-rfp-deliverables",
+      "clinic-website-mobile-phone-links"
+    ],
+    "service": "website",
+    "sector": "fertility",
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "eye-clinic-location-access",
+    "path": "/blog/eye-clinic-location-access",
+    "title": "What location and access details should an eye clinic publish?",
+    "kind": "article",
+    "topic": "websites",
+    "category": "Healthcare websites",
+    "summary": "Publish an accurate entrance, floor, directions link and reception number.",
+    "seoTitle": "What location and access details should an eye clinic publish?",
+    "seoDescription": "Publish an accurate entrance, floor, directions link and reception number.",
+    "answer": "Publish an accurate entrance, floor, directions link and reception number. Verify any access details with the branch team, and keep the written address visible so visitors do not have to rely on a map image.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Write details visitors can act on"
+      },
+      {
+        "type": "paragraph",
+        "text": "Put access details next to the address, with a link to directions and a clear call option. A useful line names a specific entrance or lift when that detail is true. If an arrangement changes by building or day, make the qualification visible beside the instruction."
+      },
+      {
+        "type": "heading",
+        "text": "Check more than the map pin"
+      },
+      {
+        "type": "paragraph",
+        "text": "Try opening directions, copying the written address and using the phone number with a keyboard and a narrow screen. Ask the team what callers most often misunderstand and turn one repeated question into a short, verified instruction on the branch page."
+      }
+    ],
+    "related": [
+      "healthcare-website-url-migration-map",
+      "healthcare-website-rfp-deliverables",
+      "clinic-website-mobile-phone-links"
+    ],
+    "service": "website",
+    "sector": "eye-care",
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "specialist-clinic-referral-page",
+    "path": "/blog/specialist-clinic-referral-page",
+    "title": "How to build a referral page for a specialist practice",
+    "kind": "article",
+    "topic": "enquiries",
+    "category": "Enquiries and appointments",
+    "summary": "Tell referring professionals who receives a referral, what information to prepare and which approved channel to use.",
+    "seoTitle": "How to build a referral page for a specialist practice",
+    "seoDescription": "Tell referring professionals who receives a referral, what information to prepare and which approved channel to use.",
+    "answer": "Tell referring professionals who receives a referral, what information to prepare and which approved channel to use. Give patients a separate appointment contact so they do not have to interpret professional instructions.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Separate the public instructions from the submission"
+      },
+      {
+        "type": "paragraph",
+        "text": "A public page can explain accepted referral routes and opening hours without collecting documents. Show who to call when the professional is unsure which route applies. If the practice uses a secure portal, label the link with the task it performs."
+      },
+      {
+        "type": "heading",
+        "text": "Assign a receipt and fallback"
+      },
+      {
+        "type": "paragraph",
+        "text": "Test a fictional referral inquiry with the designated team. Check who acknowledges it, what happens when the primary owner is absent and whether instructions match reception’s actual process. Recheck the links after a portal or service change."
+      }
+    ],
+    "related": [
+      "clinic-enquiry-form-field-audit",
+      "clinic-appointment-form-fallback",
+      "clinic-enquiry-source-tracking"
+    ],
+    "service": "systems",
+    "sector": "specialist",
+    "worksheet": "clinic-enquiry-routing-map",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "multispecialty-reception-shortcuts",
+    "path": "/blog/multispecialty-reception-shortcuts",
+    "title": "Which shortcuts should a multispecialty clinic put above its department directory?",
+    "kind": "article",
+    "topic": "websites",
+    "category": "Healthcare websites",
+    "summary": "Give visitors direct routes to the department list, location details and central reception.",
+    "seoTitle": "Which shortcuts should a multispecialty clinic put above its department directory?",
+    "seoDescription": "Give visitors direct routes to the department list, location details and central reception.",
+    "answer": "Give visitors direct routes to the department list, location details and central reception. Choose shortcuts based on the most common decisions, then keep the same labels on mobile and desktop.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Use the questions reception hears"
+      },
+      {
+        "type": "paragraph",
+        "text": "If callers often ask “Which branch has this department?”, place location information on the department page and link it from the directory. If people commonly need help choosing a department, offer a general reception route instead of forcing a choice in the form."
+      },
+      {
+        "type": "heading",
+        "text": "Check the unresolved journey"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask someone to find a department with an uncertain spelling and then reach reception without making a booking. Record which link they use and where they get stuck. A shortcut earns its place if it removes a real navigation step."
+      }
+    ],
+    "related": [
+      "healthcare-website-url-migration-map",
+      "healthcare-website-rfp-deliverables",
+      "clinic-website-mobile-phone-links"
+    ],
+    "service": "website",
+    "sector": "multispecialty",
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "diagnostics-test-menu-change-log",
+    "path": "/blog/diagnostics-test-menu-change-log",
+    "title": "How should a diagnostic centre manage changes to its online test menu?",
+    "kind": "article",
+    "topic": "governance",
+    "category": "Website governance",
+    "summary": "Record each change to test availability, naming or location in one approved menu.",
+    "seoTitle": "How should a diagnostic centre manage changes to its online test menu?",
+    "seoDescription": "Record each change to test availability, naming or location in one approved menu.",
+    "answer": "Record each change to test availability, naming or location in one approved menu. Update the website and any public PDFs from that record, and assign someone to check that old versions no longer mislead visitors.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Make the change traceable"
+      },
+      {
+        "type": "paragraph",
+        "text": "For each entry, note the exact page, old text, approved replacement, locations affected and effective date. If a test is temporarily unavailable at one site, update that site’s availability instead of removing it everywhere. Route preparation instructions through the centre’s designated reviewer."
+      },
+      {
+        "type": "heading",
+        "text": "Look for stale copies"
+      },
+      {
+        "type": "paragraph",
+        "text": "Search the website for the previous wording and inspect linked PDFs or shared contact scripts. Give each surface its own completion check. A revised source spreadsheet is useful, but the work is finished only after someone verifies what visitors can see."
+      }
+    ],
+    "related": [
+      "healthcare-website-ownership-handover",
+      "clinic-website-translation-workflow",
+      "healthcare-content-claim-register"
+    ],
+    "service": "care",
+    "sector": "diagnostics",
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "hospital-department-contact-ownership",
+    "path": "/blog/hospital-department-contact-ownership",
+    "title": "How should a hospital assign ownership for department enquiries?",
+    "kind": "article",
+    "topic": "enquiries",
+    "category": "Enquiries and appointments",
+    "summary": "Give each public contact option a first owner, a backup and a clear reason to use it.",
+    "seoTitle": "How should a hospital assign ownership for department enquiries?",
+    "seoDescription": "Give each public contact option a first owner, a backup and a clear reason to use it.",
+    "answer": "Give each public contact option a first owner, a backup and a clear reason to use it. Keep central reception easy to find when visitors do not know the department or when a dedicated line is unavailable.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Map what each number does"
+      },
+      {
+        "type": "paragraph",
+        "text": "Distinguish appointments, general reception, department administration and hospital-approved urgent contact instructions. Put the department or desk name near its number. If two buttons reach the same desk, combine them unless the visitor receives a different outcome."
+      },
+      {
+        "type": "heading",
+        "text": "Test the transfers"
+      },
+      {
+        "type": "paragraph",
+        "text": "Call or test the published routes with the hospital’s permission. Try one department-specific question and one misdirected enquiry. Check who picks up, who can redirect it and what the visitor is told outside staffed hours. Record the owner of each change."
+      }
+    ],
+    "related": [
+      "clinic-enquiry-form-field-audit",
+      "clinic-appointment-form-fallback",
+      "clinic-enquiry-source-tracking"
+    ],
+    "service": "systems",
+    "sector": "hospitals",
+    "worksheet": "clinic-enquiry-routing-map",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "homecare-service-area-page",
+    "path": "/blog/homecare-service-area-page",
+    "title": "How should a home healthcare business describe its service area?",
+    "kind": "article",
+    "topic": "listings",
+    "category": "Local search and listings",
+    "summary": "Show where your home healthcare team operates and help visitors check coverage by postcode or visit type before requesting an appointment.",
+    "seoTitle": "How should a home healthcare business describe its service area?",
+    "seoDescription": "Show where your home healthcare team operates and help visitors check coverage by postcode or visit type before requesting an appointment.",
+    "answer": "List the areas the team actually serves, explain whether availability depends on the address or type of visit, and give visitors a way to check coverage without disclosing sensitive details in a public form.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Separate service areas from offices"
+      },
+      {
+        "type": "paragraph",
+        "text": "An office address is where the organization is based. A service area is where it can provide visits. Put these in separate fields and label them. If only selected postcodes in a city are covered, list those postcodes or offer a coverage check instead of naming the entire city."
+      },
+      {
+        "type": "heading",
+        "text": "Keep the coverage record current"
+      },
+      {
+        "type": "paragraph",
+        "text": "Assign one operations owner and update the record whenever travel limits or staffing change. Test a fictional request from an in-area and out-of-area postcode. Confirm the message gives a useful next step in either case and does not imply a visit was booked."
+      }
+    ],
+    "related": [
+      "clinic-holiday-hours-workflow",
+      "clinic-relocation-search-checklist",
+      "clinic-business-listing-duplicates"
+    ],
+    "service": "local",
+    "sector": "homecare",
+    "worksheet": "healthcare-listing-update-log",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "wellness-membership-page-facts",
+    "path": "/blog/wellness-membership-page-facts",
+    "title": "What should a wellness membership page explain before asking for an enquiry?",
+    "kind": "article",
+    "topic": "brand",
+    "category": "Brand and content",
+    "summary": "Show what the membership includes, who it is for, where it can be used and how to ask about joining.",
+    "seoTitle": "What should a wellness membership page explain before asking for an enquiry?",
+    "seoDescription": "Show what the membership includes, who it is for, where it can be used and how to ask about joining.",
+    "answer": "Show what the membership includes, who it is for, where it can be used and how to ask about joining. If terms vary by location or plan, place the difference beside the relevant option.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Turn promises into service details"
+      },
+      {
+        "type": "paragraph",
+        "text": "Replace broad phrases such as “complete transformation” with verifiable items such as group classes, session booking or staffed hours, when those are actually included. Distinguish a one-off visit from ongoing membership so the contact team receives the right request."
+      },
+      {
+        "type": "heading",
+        "text": "Run a pricing and policy check"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask the commercial owner to confirm the currently approved fee, renewal terms and any advertised trial. Check that the page and reception give the same answer. If the terms cannot be published, state how to obtain them and who can confirm them."
+      }
+    ],
+    "related": [
+      "healthcare-brand-fact-sheet",
+      "healthcare-social-profile-launch-checklist",
+      "hair-clinic-consultation-page"
+    ],
+    "service": "branding",
+    "sector": "wellness",
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "ayurveda-clinic-visit-information",
+    "path": "/blog/ayurveda-clinic-visit-information",
+    "title": "How to write a factual first-visit page for an Ayurveda clinic",
+    "kind": "article",
+    "topic": "brand",
+    "category": "Brand and content",
+    "summary": "Describe the clinic, practitioner information the team can verify, location, consultation format and booking process.",
+    "seoTitle": "How to write a factual first-visit page for an Ayurveda clinic",
+    "seoDescription": "Describe the clinic, practitioner information the team can verify, location, consultation format and booking process.",
+    "answer": "Describe the clinic, practitioner information the team can verify, location, consultation format and booking process. Keep any health claims separate from the practical information a visitor needs to plan a visit.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Keep a source for every practical fact"
+      },
+      {
+        "type": "paragraph",
+        "text": "Record who confirmed the practitioner’s role, where appointments are held and which contact route works. If a location has different timings or consultation formats, place those differences on its page and link back from the general clinic introduction."
+      },
+      {
+        "type": "heading",
+        "text": "Review the language around outcomes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask the responsible reviewer to check any claims about what a consultation or programme can achieve. Keep unsupported promises off the page. Test the appointment request on mobile and check the confirmation makes clear what the clinic will do next."
+      }
+    ],
+    "related": [
+      "healthcare-brand-fact-sheet",
+      "healthcare-social-profile-launch-checklist",
+      "hair-clinic-consultation-page"
+    ],
+    "service": "branding",
+    "sector": "ayurveda",
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "homeopathy-practice-service-copy",
+    "path": "/blog/homeopathy-practice-service-copy",
+    "title": "How to write factual website copy for a homeopathy practice",
+    "kind": "article",
+    "topic": "brand",
+    "category": "Brand and content",
+    "summary": "Describe verifiable practice details: the organization, practitioners, locations, appointment format and the contact route.",
+    "seoTitle": "How to write factual website copy for a homeopathy practice",
+    "seoDescription": "Describe verifiable practice details: the organization, practitioners, locations, appointment format and the contact route.",
+    "answer": "Describe verifiable practice details: the organization, practitioners, locations, appointment format and the contact route. Publish only claims the responsible team can support, and give practical visitor information a section of its own.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Use a fact sheet before writing"
+      },
+      {
+        "type": "paragraph",
+        "text": "Start with approved names, roles, addresses, timings and communication preferences. For example, if one site offers consultations only on certain days, put that detail on the relevant location page rather than promising availability across the whole practice."
+      },
+      {
+        "type": "heading",
+        "text": "Review before reusing copy"
+      },
+      {
+        "type": "paragraph",
+        "text": "Check whether wording copied into a listing or social profile changes the meaning of an approved statement. Assign an owner to correct outdated details and record when they were last confirmed. Keep the contact copy focused on arranging an enquiry."
+      }
+    ],
+    "related": [
+      "healthcare-brand-fact-sheet",
+      "healthcare-social-profile-launch-checklist",
+      "hair-clinic-consultation-page"
+    ],
+    "service": "branding",
+    "sector": "homeopathy",
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-saas-integration-directory",
+    "path": "/blog/healthcare-saas-integration-directory",
+    "title": "What should a healthcare SaaS integration directory disclose?",
+    "kind": "article",
+    "topic": "b2b",
+    "category": "Healthcare B2B",
+    "summary": "Separate integrations available today from partner-led, custom or planned connections.",
+    "seoTitle": "What should a healthcare SaaS integration directory disclose?",
+    "seoDescription": "Separate integrations available today from partner-led, custom or planned connections.",
+    "answer": "Separate integrations available today from partner-led, custom or planned connections. For each published integration, say what it does, who can use it and how a buyer can verify the current scope.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Write a useful integration entry"
+      },
+      {
+        "type": "paragraph",
+        "text": "Name the external system, the workflow it supports, the direction of data movement where safe to disclose, and prerequisites such as a product tier or customer configuration. If the buyer needs technical details, link to maintained documentation or the proper contact route."
+      },
+      {
+        "type": "heading",
+        "text": "Check status with product and sales"
+      },
+      {
+        "type": "paragraph",
+        "text": "Have one owner confirm each integration entry and update it when support changes. A useful sales test is whether someone can distinguish “available now” from “ask us about a custom connection” without a demo. Use the same distinction in proposals."
+      }
+    ],
+    "related": [
+      "healthcare-b2b-case-study-proof",
+      "healthcare-b2b-demo-qualification-questions",
+      "medical-device-product-spec-page"
+    ],
+    "service": "b2b",
+    "sector": "healthtech",
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "medical-device-product-spec-page",
+    "path": "/blog/medical-device-product-spec-page",
+    "title": "What belongs on a medical device product specification page?",
+    "kind": "article",
+    "topic": "b2b",
+    "category": "Healthcare B2B",
+    "summary": "Give procurement teams an exact model name, current specification document and route to a responsible contact.",
+    "seoTitle": "What belongs on a medical device product specification page?",
+    "seoDescription": "Give procurement teams an exact model name, current specification document and route to a responsible contact.",
+    "answer": "Give procurement teams an exact model name, current specification document and route to a responsible contact. Distinguish each version and market where the company can verify that information.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Tie each file to a model and version"
+      },
+      {
+        "type": "paragraph",
+        "text": "Avoid linking three products to a PDF called “latest brochure.” Identify the model, document revision and language in the link. Use a separate enquiry label for technical documents, distribution or procurement when those requests reach different people."
+      },
+      {
+        "type": "heading",
+        "text": "Check the material buyers can reuse"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask product and regulatory owners to confirm which descriptions and files can be shared publicly. Test the download on mobile, compare the file with the product page and remove superseded documents from public navigation. Keep an owner for correcting version drift."
+      }
+    ],
+    "related": [
+      "healthcare-b2b-case-study-proof",
+      "healthcare-b2b-demo-qualification-questions",
+      "healthcare-saas-integration-directory"
+    ],
+    "service": "b2b",
+    "sector": "medical-devices",
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "dental-lab-case-enquiry-page",
+    "path": "/blog/dental-lab-case-enquiry-page",
+    "title": "How should a dental lab structure its case enquiry page?",
+    "kind": "article",
+    "topic": "b2b",
+    "category": "Healthcare B2B",
+    "summary": "Separate general enquiries from case submissions.",
+    "seoTitle": "How should a dental lab structure its case enquiry page?",
+    "seoDescription": "Separate general enquiries from case submissions.",
+    "answer": "Separate general enquiries from case submissions. Show which professionals the lab serves, the categories of work it handles and the approved route for sending materials when a case is accepted.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Write for a referring practice"
+      },
+      {
+        "type": "paragraph",
+        "text": "Give practices a clear route to ask about a case type, coverage or handover. Explain what the lab needs to confirm before it can accept work. Keep images, scans and case records out of a general business enquiry form."
+      },
+      {
+        "type": "heading",
+        "text": "Test the handoff on both sides"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask a lab coordinator and a referring practice to walk through a fictional first enquiry. Check that the acknowledgement explains the next step and that the person answering can direct any files to the correct channel. Assign a backup for times when the usual contact is absent."
+      }
+    ],
+    "related": [
+      "healthcare-b2b-case-study-proof",
+      "healthcare-b2b-demo-qualification-questions",
+      "healthcare-saas-integration-directory"
+    ],
+    "service": "b2b",
+    "sector": "dental-labs",
+    "worksheet": "clinic-enquiry-routing-map",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-education-programme-page",
+    "path": "/blog/healthcare-education-programme-page",
+    "title": "What should a healthcare training programme page include?",
+    "kind": "article",
+    "topic": "websites",
+    "category": "Healthcare websites",
+    "summary": "Give prospective applicants the course format, prerequisites, schedule, fees if approved, and an application or enquiry route.",
+    "seoTitle": "What should a healthcare training programme page include?",
+    "seoDescription": "Give prospective applicants the course format, prerequisites, schedule, fees if approved, and an application or enquiry route.",
+    "answer": "Give prospective applicants the course format, prerequisites, schedule, fees if approved, and an application or enquiry route. State exactly who issues any credential the programme advertises.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Separate course facts from promotional copy"
+      },
+      {
+        "type": "paragraph",
+        "text": "Put timing, delivery mode, location and admissions requirements in an easy-to-scan section. If two cohorts differ, give each its own facts. Mark a proposed date as provisional rather than copying the previous cohort’s deadline."
+      },
+      {
+        "type": "heading",
+        "text": "Verify credential wording"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask the programme owner to approve how completion, certification or recognition is described. Compare the page with the admission form and brochure. If the course is full, update the contact option to a waitlist or future intake only if the team can support that process."
+      }
+    ],
+    "related": [
+      "healthcare-website-url-migration-map",
+      "healthcare-website-rfp-deliverables",
+      "clinic-website-mobile-phone-links"
+    ],
+    "service": "website",
+    "sector": "healthcare-education",
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "veterinary-clinic-hours-and-contact",
+    "path": "/blog/veterinary-clinic-hours-and-contact",
+    "title": "How should a veterinary clinic show routine and out-of-hours contact details?",
+    "kind": "article",
+    "topic": "listings",
+    "category": "Local search and listings",
+    "summary": "Distinguish routine opening hours from the clinic’s verified out-of-hours arrangements.",
+    "seoTitle": "How should a veterinary clinic show routine and out-of-hours contact details?",
+    "seoDescription": "Distinguish routine opening hours from the clinic’s verified out-of-hours arrangements.",
+    "answer": "Distinguish routine opening hours from the clinic’s verified out-of-hours arrangements. Put the appropriate phone or contact route beside each label, and keep the same information on the website and managed listings.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Give every contact route a clear label"
+      },
+      {
+        "type": "paragraph",
+        "text": "A number for weekday reception should say so. If a different team handles enquiries after closing, explain the hours and what the team can confirm. Do not imply the practice offers round-the-clock service unless that is the verified arrangement."
+      },
+      {
+        "type": "heading",
+        "text": "Check weekends and holidays"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask a member of the clinic to review the site on mobile as if calling outside normal hours. Confirm that the published details match the current policy. When a holiday schedule changes, update the page and managed listings from the same approved record."
+      }
+    ],
+    "related": [
+      "clinic-holiday-hours-workflow",
+      "clinic-relocation-search-checklist",
+      "clinic-business-listing-duplicates"
+    ],
+    "service": "local",
+    "sector": "veterinary",
+    "worksheet": "healthcare-listing-update-log",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "clinic-website-rebuild-or-repair",
+    "path": "/blog/clinic-website-rebuild-or-repair",
+    "title": "Should you rebuild your clinic website or repair it?",
+    "kind": "article",
+    "topic": "audit",
+    "category": "Digital audits",
+    "summary": "Repair the current site when the main problems are a few wrong details, broken actions or unclear pages.",
+    "seoTitle": "Should you rebuild your clinic website or repair it?",
+    "seoDescription": "Repair the current site when the main problems are a few wrong details, broken actions or unclear pages.",
+    "answer": "Repair the current site when the main problems are a few wrong details, broken actions or unclear pages. Consider a rebuild when the platform blocks essential tasks or your team cannot maintain the site without recurring workarounds.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Diagnose the most expensive failure"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask someone to find a branch, choose a service and submit a fictional enquiry on a phone. If every failure starts with one old contact module, fix that module and test again. If every service requires hand edits to dozens of pages, the content model may need to change."
+      },
+      {
+        "type": "heading",
+        "text": "Compare the cost of the next year"
+      },
+      {
+        "type": "paragraph",
+        "text": "Estimate repairs, ongoing maintenance and the effort to move existing URLs. A rebuild is easier to justify if it removes repeat work and gives owners control. Keep a written list of pages, forms and downloads that must work on day one."
+      }
+    ],
+    "related": [
+      "clinic-digital-audit-fix-priority",
+      "healthcare-agency-audit-brief"
+    ],
+    "service": "audit",
+    "sector": null,
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "clinic-digital-audit-fix-priority",
+    "path": "/blog/clinic-digital-audit-fix-priority",
+    "title": "Which findings should a clinic fix first after a website audit?",
+    "kind": "article",
+    "topic": "audit",
+    "category": "Digital audits",
+    "summary": "Fix failures that stop visitors reaching the right team first.",
+    "seoTitle": "Which findings should a clinic fix first after a website audit?",
+    "seoDescription": "Fix failures that stop visitors reaching the right team first.",
+    "answer": "Fix failures that stop visitors reaching the right team first. Next address incorrect operating information and broken pages. Put cosmetic improvements behind changes whose effect the team can test.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Translate evidence into a repair"
+      },
+      {
+        "type": "paragraph",
+        "text": "“The call button opens the wrong branch number” is a ticket. “The website feels dated” is an opinion until it points to a specific issue. Include the page, affected device, expected behaviour and responsible owner in each action item."
+      },
+      {
+        "type": "heading",
+        "text": "Agree what counts as fixed"
+      },
+      {
+        "type": "paragraph",
+        "text": "For a wrong number, compare the page with the approved record, call the route with permission and check the branch name that answers. Close the ticket when the visitor can finish the intended task. Put longer work in a second queue with an owner."
+      }
+    ],
+    "related": [
+      "clinic-website-rebuild-or-repair",
+      "healthcare-agency-audit-brief"
+    ],
+    "service": "audit",
+    "sector": null,
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-agency-audit-brief",
+    "path": "/blog/healthcare-agency-audit-brief",
+    "title": "How to brief an agency for a healthcare website audit",
+    "kind": "article",
+    "topic": "audit",
+    "category": "Digital audits",
+    "summary": "Give the agency your public website, official location list, enquiry routes and the decisions you want the audit to support.",
+    "seoTitle": "How to brief an agency for a healthcare website audit",
+    "seoDescription": "Give the agency your public website, official location list, enquiry routes and the decisions you want the audit to support.",
+    "answer": "Give the agency your public website, official location list, enquiry routes and the decisions you want the audit to support. Identify which systems it may inspect and who can confirm facts or approve access.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Define the brief by decision"
+      },
+      {
+        "type": "paragraph",
+        "text": "“Should we repair or replace our location pages?” is easier to assess than “Audit our digital presence.” Share two or three public examples of a known issue without providing patient records. Agree whether the work includes listings, website navigation, content or enquiry routing."
+      },
+      {
+        "type": "heading",
+        "text": "Ask for usable evidence"
+      },
+      {
+        "type": "paragraph",
+        "text": "Request dated examples, affected URLs, clear priorities and a short test for each fix. If a finding relies on private analytics, ask what access is needed and who will grant it. Keep that access separate from a public review of the site."
+      }
+    ],
+    "related": [
+      "clinic-website-rebuild-or-repair",
+      "clinic-digital-audit-fix-priority"
+    ],
+    "service": "audit",
+    "sector": null,
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-website-url-migration-map",
+    "path": "/blog/healthcare-website-url-migration-map",
+    "title": "How to build a URL redirect map for a healthcare website rebuild",
+    "kind": "article",
+    "topic": "websites",
+    "category": "Healthcare websites",
+    "summary": "List the old URLs, choose a genuine replacement for each page that has moved, and test the final destination.",
+    "seoTitle": "How to build a URL redirect map for a healthcare website rebuild",
+    "seoDescription": "List the old URLs, choose a genuine replacement for each page that has moved, and test the final destination.",
+    "answer": "List the old URLs, choose a genuine replacement for each page that has moved, and test the final destination. Preserve addresses that still serve the same purpose and avoid sending unrelated pages to the homepage.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Build the map before design sign-off"
+      },
+      {
+        "type": "paragraph",
+        "text": "Include old services, branches, practitioner pages and files people still use. A relocated clinic may have an exact replacement; a closed service might need an explanatory page or a clean retirement instead. Assign an owner to decide unclear cases."
+      },
+      {
+        "type": "heading",
+        "text": "Run the important journeys again"
+      },
+      {
+        "type": "paragraph",
+        "text": "After launch, open old links from listings, emails and printed QR codes as well as the website. Check that they reach the correct page without multiple hops. Confirm internal links and the sitemap use the final URL."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Search Central: Redirects and Google Search](https://developers.google.com/search/docs/crawling-indexing/301-redirects)"
+        ]
+      }
+    ],
+    "related": [
+      "healthcare-website-rfp-deliverables",
+      "clinic-website-mobile-phone-links",
+      "clinic-website-404-helpful-page"
+    ],
+    "service": "website",
+    "sector": null,
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-website-ownership-handover",
+    "path": "/blog/healthcare-website-ownership-handover",
+    "title": "What should a healthcare website handover include?",
+    "kind": "article",
+    "topic": "governance",
+    "category": "Website governance",
+    "summary": "Hand over accounts, role permissions, source files, publishing instructions, an enquiry map and a way to restore the site.",
+    "seoTitle": "What should a healthcare website handover include?",
+    "seoDescription": "Hand over accounts, role permissions, source files, publishing instructions, an enquiry map and a way to restore the site.",
+    "answer": "Hand over accounts, role permissions, source files, publishing instructions, an enquiry map and a way to restore the site. Put each responsibility beside a named role so routine changes can happen without the original project team.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "List what the client controls"
+      },
+      {
+        "type": "paragraph",
+        "text": "Record the domain, host, repository, content editor and shared assets. Use delegated roles or an approved password manager rather than emailing credentials. Include the approved branch facts and who can change them, since ownership of the site does not settle ownership of its content."
+      },
+      {
+        "type": "heading",
+        "text": "Ask the team to make one change"
+      },
+      {
+        "type": "paragraph",
+        "text": "Have the new owner update a fictional branch-hours entry in a safe environment, publish it and reverse it. Then test that an enquiry reaches the assigned inbox and someone knows how to recover the previous site version. Record who can help if the test fails."
+      }
+    ],
+    "related": [
+      "clinic-website-translation-workflow",
+      "healthcare-content-claim-register",
+      "healthcare-website-maintenance-calendar"
+    ],
+    "service": "care",
+    "sector": null,
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-website-rfp-deliverables",
+    "path": "/blog/healthcare-website-rfp-deliverables",
+    "title": "What deliverables should a healthcare website RFP specify?",
+    "kind": "article",
+    "topic": "websites",
+    "category": "Healthcare websites",
+    "summary": "Ask bidders to name the page types, content work, migration, integrations and acceptance tests they include.",
+    "seoTitle": "What deliverables should a healthcare website RFP specify?",
+    "seoDescription": "Ask bidders to name the page types, content work, migration, integrations and acceptance tests they include.",
+    "answer": "Ask bidders to name the page types, content work, migration, integrations and acceptance tests they include. Describe who supplies facts and who approves them so quotes cover the same responsibilities.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Write page types and tasks"
+      },
+      {
+        "type": "paragraph",
+        "text": "A brief could require a location page, service page, practitioner profile and contact flow. Add a task for each: find a branch’s hours on a phone, link a clinician to two approved sites or test an enquiry. Note any old URLs or downloads that need to keep working."
+      },
+      {
+        "type": "heading",
+        "text": "Compare quotes on handover and upkeep"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask what the team can edit, what needs developer support, who owns the accounts and how fixes are handled after launch. Separate one-time delivery from ongoing work. Require a demonstration of agreed tasks before accepting the project."
+      }
+    ],
+    "related": [
+      "healthcare-website-url-migration-map",
+      "clinic-website-mobile-phone-links",
+      "clinic-website-404-helpful-page"
+    ],
+    "service": "website",
+    "sector": null,
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "clinic-website-translation-workflow",
+    "path": "/blog/clinic-website-translation-workflow",
+    "title": "How should a clinic maintain English and local-language website pages?",
+    "kind": "article",
+    "topic": "governance",
+    "category": "Website governance",
+    "summary": "Publish a translated page when someone can verify it and keep it current.",
+    "seoTitle": "How should a clinic maintain English and local-language website pages?",
+    "seoDescription": "Publish a translated page when someone can verify it and keep it current.",
+    "answer": "Publish a translated page when someone can verify it and keep it current. Keep a separate URL for each version, let visitors switch language and preserve shared facts such as branch hours and phone numbers.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Separate facts from translation"
+      },
+      {
+        "type": "paragraph",
+        "text": "Store the approved hours and address once, then review how the address and directions are written in each language. Send statements that require specialist review through the same approval process as the original. Do not copy an old notice into a language that nobody maintains."
+      },
+      {
+        "type": "heading",
+        "text": "Test the change in both versions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Change a test branch’s hours and verify each language shows the new value. Check language links lead to the equivalent page, and ensure a visitor can reach reception in the language the site promises. Only describe multilingual support the team can provide."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Search Central: Localized versions of your pages](https://developers.google.com/search/docs/specialty/international/localized-versions)"
+        ]
+      }
+    ],
+    "related": [
+      "healthcare-content-claim-register",
+      "healthcare-website-maintenance-calendar",
+      "healthcare-website-ownership-handover"
+    ],
+    "service": "care",
+    "sector": null,
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "clinic-website-mobile-phone-links",
+    "path": "/blog/clinic-website-mobile-phone-links",
+    "title": "Where should a clinic put call buttons on its mobile website?",
+    "kind": "article",
+    "topic": "websites",
+    "category": "Healthcare websites",
+    "summary": "Put a call link where visitors choose a location or need help: the branch page, contact page and relevant service pages.",
+    "seoTitle": "Where should a clinic put call buttons on its mobile website?",
+    "seoDescription": "Put a call link where visitors choose a location or need help: the branch page, contact page and relevant service pages.",
+    "answer": "Put a call link where visitors choose a location or need help: the branch page, contact page and relevant service pages. Label the receiving desk rather than using the same “Call now” button everywhere.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Keep context beside the button"
+      },
+      {
+        "type": "paragraph",
+        "text": "A group homepage can use “Call central reception.” A branch page can use “Call East branch.” Show the written number as well, so a visitor can copy or verify it. If a button stays fixed at the bottom, check it does not cover form errors or important text."
+      },
+      {
+        "type": "heading",
+        "text": "Test with the right device"
+      },
+      {
+        "type": "paragraph",
+        "text": "Open the site on a phone, tap each link without placing unnecessary calls and compare the dialled number with the approved branch record. Then test keyboard focus and any menu overlay. For numbers that genuinely need an operational check, coordinate with the receiving desk."
+      }
+    ],
+    "related": [
+      "healthcare-website-url-migration-map",
+      "healthcare-website-rfp-deliverables",
+      "clinic-website-404-helpful-page"
+    ],
+    "service": "website",
+    "sector": null,
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "clinic-website-404-helpful-page",
+    "path": "/blog/clinic-website-404-helpful-page",
+    "title": "What should a healthcare website’s missing-page screen do?",
+    "kind": "article",
+    "topic": "websites",
+    "category": "Healthcare websites",
+    "summary": "Return a true missing-page status and help visitors recover.",
+    "seoTitle": "What should a healthcare website’s missing-page screen do?",
+    "seoDescription": "Return a true missing-page status and help visitors recover.",
+    "answer": "Return a true missing-page status and help visitors recover. Offer links to locations, services and central reception, with wording that explains the page may have moved.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Avoid sending every error to the homepage"
+      },
+      {
+        "type": "paragraph",
+        "text": "A missing practitioner URL is different from a missing branch PDF. Redirect when a matching replacement exists. Otherwise keep a clear 404 response and give the visitor a route to the information they were trying to find."
+      },
+      {
+        "type": "heading",
+        "text": "Check common entry points"
+      },
+      {
+        "type": "paragraph",
+        "text": "Test an old service link, a mistyped branch link and a retired file. Record what the visitor sees and how they can recover. Verify that navigation, phone links and page titles remain useful on a narrow screen."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Search Central: HTTP status codes and network errors](https://developers.google.com/search/docs/crawling-indexing/http-network-errors)"
+        ]
+      }
+    ],
+    "related": [
+      "healthcare-website-url-migration-map",
+      "healthcare-website-rfp-deliverables",
+      "clinic-website-mobile-phone-links"
+    ],
+    "service": "website",
+    "sector": null,
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "clinic-holiday-hours-workflow",
+    "path": "/blog/clinic-holiday-hours-workflow",
+    "title": "How to manage clinic holiday hours across website and listings",
+    "kind": "article",
+    "topic": "listings",
+    "category": "Local search and listings",
+    "summary": "Use one branch-by-branch schedule, enter exceptions in the appropriate listing controls, and check the public information before the holiday.",
+    "seoTitle": "How to manage clinic holiday hours across website and listings",
+    "seoDescription": "Use one branch-by-branch schedule, enter exceptions in the appropriate listing controls, and check the public information before the holiday.",
+    "answer": "Use one branch-by-branch schedule, enter exceptions in the appropriate listing controls, and check the public information before the holiday. Remove any temporary website notices after normal hours resume.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Assign a branch-level decision"
+      },
+      {
+        "type": "paragraph",
+        "text": "Confirm the date, opening times and any change to the reception number for each branch. Do not apply one announcement to the whole group unless every branch follows it. Assign one person to enter changes and another to verify the public display."
+      },
+      {
+        "type": "heading",
+        "text": "Check the change from a visitor’s view"
+      },
+      {
+        "type": "paragraph",
+        "text": "Open the public branch page and listing from a phone. Confirm the date and hours match the approved record, and make sure a banner does not contradict the page beneath it. Note the date to remove the banner and restore normal wording if necessary."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Business Profile Help: Set special hours](https://support.google.com/business/answer/6303076)"
+        ]
+      }
+    ],
+    "related": [
+      "clinic-relocation-search-checklist",
+      "clinic-business-listing-duplicates",
+      "healthcare-reception-map-pin-test"
+    ],
+    "service": "local",
+    "sector": null,
+    "worksheet": "healthcare-listing-update-log",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "clinic-relocation-search-checklist",
+    "path": "/blog/clinic-relocation-search-checklist",
+    "title": "What should a clinic update online when it relocates?",
+    "kind": "article",
+    "topic": "listings",
+    "category": "Local search and listings",
+    "summary": "Update the verified address, entrance, map pin, reception details and any affected hours.",
+    "seoTitle": "What should a clinic update online when it relocates?",
+    "seoDescription": "Update the verified address, entrance, map pin, reception details and any affected hours.",
+    "answer": "Update the verified address, entrance, map pin, reception details and any affected hours. If the same clinic continues at a new address, keep the visitor’s existing route useful and make the move date clear.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Plan the overlap period"
+      },
+      {
+        "type": "paragraph",
+        "text": "Before the move, publish a notice saying which address applies on which dates. Coordinate the website, booking messages and the owned listing from one approved record. Check any old map links and saved directions you control."
+      },
+      {
+        "type": "heading",
+        "text": "Verify the new arrival route"
+      },
+      {
+        "type": "paragraph",
+        "text": "After the move, try the directions link, call the new number if it changed, and follow the route to the entrance. Search for the former address across branch pages and downloadable materials. Give reception one answer for callers who still arrive at the old location."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Business Profile Help: Guidelines for representing your business](https://support.google.com/business/answer/3038177)"
+        ]
+      }
+    ],
+    "related": [
+      "clinic-holiday-hours-workflow",
+      "clinic-business-listing-duplicates",
+      "healthcare-reception-map-pin-test"
+    ],
+    "service": "local",
+    "sector": null,
+    "worksheet": "healthcare-listing-update-log",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "clinic-business-listing-duplicates",
+    "path": "/blog/clinic-business-listing-duplicates",
+    "title": "What to do when a clinic has duplicate business listings",
+    "kind": "article",
+    "topic": "listings",
+    "category": "Local search and listings",
+    "summary": "Identify who each listing represents before requesting a correction.",
+    "seoTitle": "What to do when a clinic has duplicate business listings",
+    "seoDescription": "Identify who each listing represents before requesting a correction.",
+    "answer": "Identify who each listing represents before requesting a correction. Two listings may be genuine distinct branches or professional profiles; they may also refer to the same practice with conflicting details.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Make a short evidence record"
+      },
+      {
+        "type": "paragraph",
+        "text": "Record each listing’s link, public name, address, phone and whether the organization controls it. Compare those details with the approved records. Do not claim a profile for someone else or edit a record simply because its name resembles the clinic’s."
+      },
+      {
+        "type": "heading",
+        "text": "Choose the authorized path"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask the account owner to confirm the correct profile and use the platform’s support or correction process if needed. Save the request date and its outcome. Check the public view later, because a submission does not mean a duplicate has already been resolved."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Business Profile Help: Guidelines for representing your business](https://support.google.com/business/answer/3038177)"
+        ]
+      }
+    ],
+    "related": [
+      "clinic-holiday-hours-workflow",
+      "clinic-relocation-search-checklist",
+      "healthcare-reception-map-pin-test"
+    ],
+    "service": "local",
+    "sector": null,
+    "worksheet": "healthcare-listing-update-log",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-reception-map-pin-test",
+    "path": "/blog/healthcare-reception-map-pin-test",
+    "title": "How to verify a healthcare branch’s map pin and directions link",
+    "kind": "article",
+    "topic": "listings",
+    "category": "Local search and listings",
+    "summary": "Test where the link actually takes someone, then compare the map pin, written address and entrance notes.",
+    "seoTitle": "How to verify a healthcare branch’s map pin and directions link",
+    "seoDescription": "Test where the link actually takes someone, then compare the map pin, written address and entrance notes.",
+    "answer": "Test where the link actually takes someone, then compare the map pin, written address and entrance notes. If the building has more than one entrance, give the visitor the approved detail needed to complete the trip.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Use the published link"
+      },
+      {
+        "type": "paragraph",
+        "text": "Open directions from the mobile branch page, the owned listing and any QR code your team hands out. Record a mismatch using the published URL and the correct entrance. Do not move the pin to a different facility or use a name that does not match the branch."
+      },
+      {
+        "type": "heading",
+        "text": "Give fixes to the right person"
+      },
+      {
+        "type": "paragraph",
+        "text": "Assign the website link to the editor and the profile correction to the authorized account owner. Recheck when both changes appear publicly. Ask reception if the revised directions match the instructions it gives callers."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Business Profile Help: Guidelines for representing your business](https://support.google.com/business/answer/3038177)"
+        ]
+      }
+    ],
+    "related": [
+      "clinic-holiday-hours-workflow",
+      "clinic-relocation-search-checklist",
+      "clinic-business-listing-duplicates"
+    ],
+    "service": "local",
+    "sector": null,
+    "worksheet": "healthcare-listing-update-log",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-brand-fact-sheet",
+    "path": "/blog/healthcare-brand-fact-sheet",
+    "title": "How to create a brand fact sheet for a healthcare organization",
+    "kind": "article",
+    "topic": "brand",
+    "category": "Brand and content",
+    "summary": "Keep an approved record of the organization name, public description, locations, service boundaries, practitioner roles and contact information.",
+    "seoTitle": "How to create a brand fact sheet for a healthcare organization",
+    "seoDescription": "Keep an approved record of the organization name, public description, locations, service boundaries, practitioner roles and contact information.",
+    "answer": "Keep an approved record of the organization name, public description, locations, service boundaries, practitioner roles and contact information. Give every field an owner and tell writers where each version may be used.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Write the facts in reusable blocks"
+      },
+      {
+        "type": "paragraph",
+        "text": "Create a short organization description, one complete branch record and a service availability entry. Include the source and confirmation date for each. That gives a designer, writer or reception team the same facts without forcing every channel to use identical sentences."
+      },
+      {
+        "type": "heading",
+        "text": "Define what triggers an update"
+      },
+      {
+        "type": "paragraph",
+        "text": "A new branch, rebrand or practitioner departure should send a clear task to each owner. Review the homepage, listing, brochures and approved templates for the changed field. Keep old wording in the internal record so editors can find what needs to be replaced."
+      }
+    ],
+    "related": [
+      "healthcare-social-profile-launch-checklist",
+      "hair-clinic-consultation-page",
+      "wellness-membership-page-facts"
+    ],
+    "service": "branding",
+    "sector": null,
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-social-profile-launch-checklist",
+    "path": "/blog/healthcare-social-profile-launch-checklist",
+    "title": "What should a clinic put in its social media profile at launch?",
+    "kind": "article",
+    "topic": "brand",
+    "category": "Brand and content",
+    "summary": "Use the approved organization name, a plain description, the correct website link and a contact route the practice actually monitors.",
+    "seoTitle": "What should a clinic put in its social media profile at launch?",
+    "seoDescription": "Use the approved organization name, a plain description, the correct website link and a contact route the practice actually monitors.",
+    "answer": "Use the approved organization name, a plain description, the correct website link and a contact route the practice actually monitors. If the account covers several locations, send people to a location directory rather than naming one branch’s number as the general contact.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Make the profile useful in one glance"
+      },
+      {
+        "type": "paragraph",
+        "text": "Start with what the account represents and where people should go for verified information. If direct messages cannot be handled promptly, point to the approved alternative. Keep banners and pinned posts aligned with the public hours and contact instructions."
+      },
+      {
+        "type": "heading",
+        "text": "Test as an outside visitor"
+      },
+      {
+        "type": "paragraph",
+        "text": "Open the profile without relying on the account owner’s view. Tap the website link, check it loads on a phone and follow it to a branch or enquiry option. Keep a record of who owns the profile, who can correct facts and when that link should be reviewed."
+      }
+    ],
+    "related": [
+      "healthcare-brand-fact-sheet",
+      "hair-clinic-consultation-page",
+      "wellness-membership-page-facts"
+    ],
+    "service": "social",
+    "sector": null,
+    "worksheet": "healthcare-listing-update-log",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-content-claim-register",
+    "path": "/blog/healthcare-content-claim-register",
+    "title": "How to build a claim register for healthcare website copy",
+    "kind": "article",
+    "topic": "governance",
+    "category": "Website governance",
+    "summary": "For each significant claim, record its exact wording, supporting evidence, reviewer and what should trigger another check.",
+    "seoTitle": "How to build a claim register for healthcare website copy",
+    "seoDescription": "For each significant claim, record its exact wording, supporting evidence, reviewer and what should trigger another check.",
+    "answer": "For each significant claim, record its exact wording, supporting evidence, reviewer and what should trigger another check. Keep the scope narrow enough to tell whether the public sentence still matches what was approved.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Start with claims that affect decisions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prioritize practitioner roles, service availability, accreditations and any measurable outcomes. If a sentence names several locations, check whether the evidence covers each one. Keep links to the source records and retain the exact approved text."
+      },
+      {
+        "type": "heading",
+        "text": "Tie review to a publication action"
+      },
+      {
+        "type": "paragraph",
+        "text": "Assign a writer to correct the page and a reviewer to verify the replacement. If the evidence does not support the wording, narrow the statement or remove it. Review other places that reused the original claim, including social profiles and PDFs."
+      }
+    ],
+    "related": [
+      "clinic-website-translation-workflow",
+      "healthcare-website-maintenance-calendar",
+      "healthcare-website-ownership-handover"
+    ],
+    "service": "care",
+    "sector": null,
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-pdf-html-companion-page",
+    "path": "/blog/healthcare-pdf-html-companion-page",
+    "title": "When should a healthcare PDF have an HTML companion page?",
+    "kind": "article",
+    "topic": "websites",
+    "category": "Healthcare websites",
+    "summary": "Use an HTML page when visitors regularly need part of a PDF on mobile or when the information changes often.",
+    "seoTitle": "When should a healthcare PDF have an HTML companion page?",
+    "seoDescription": "Use an HTML page when visitors regularly need part of a PDF on mobile or when the information changes often.",
+    "answer": "Use an HTML page when visitors regularly need part of a PDF on mobile or when the information changes often. Give the page a useful summary, the facts people need and a clearly labelled download for those who want the document.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Give the page a job of its own"
+      },
+      {
+        "type": "paragraph",
+        "text": "A course brochure can keep its printable design while an HTML page explains the next intake, prerequisites and where to apply. Do not paste every paragraph from the brochure. Add the facts that answer the visitor’s question and identify the version of the file."
+      },
+      {
+        "type": "heading",
+        "text": "Stop versions drifting apart"
+      },
+      {
+        "type": "paragraph",
+        "text": "Give one person responsibility for both the page and the PDF. When a date changes, update the page, replace the file and check links that point to previous versions. Confirm a visitor can complete the main task without downloading the PDF."
+      }
+    ],
+    "related": [
+      "healthcare-website-url-migration-map",
+      "healthcare-website-rfp-deliverables",
+      "clinic-website-mobile-phone-links"
+    ],
+    "service": "website",
+    "sector": null,
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-article-search-intent-map",
+    "path": "/blog/healthcare-article-search-intent-map",
+    "title": "How to map search intent before writing healthcare content",
+    "kind": "article",
+    "topic": "search",
+    "category": "Search and AI discovery",
+    "summary": "Start with the decision the reader needs to make.",
+    "seoTitle": "How to map search intent before writing healthcare content",
+    "seoDescription": "Start with the decision the reader needs to make.",
+    "answer": "Start with the decision the reader needs to make. Group questions that can share one useful answer and create separate pages only when the task, audience or subject genuinely differs.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Write a page brief from the question"
+      },
+      {
+        "type": "paragraph",
+        "text": "“How do I reach the branch?” and “Who offers this service at the branch?” may use the same location page if it answers both. An organization evaluating clinic software needs different facts from someone trying to book. Record the target reader, decision and proof needed before writing."
+      },
+      {
+        "type": "heading",
+        "text": "Choose one destination for each intent"
+      },
+      {
+        "type": "paragraph",
+        "text": "Compare the proposed brief with existing pages. Improve an existing page if it already serves that job. Link to a separate article only when it adds an example, comparison or workflow the first page cannot cover clearly."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Search Central: Creating helpful, reliable, people-first content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)"
+        ]
+      }
+    ],
+    "related": [
+      "healthcare-answer-first-page-format",
+      "healthcare-source-citations-editorial-guide",
+      "healthcare-search-visibility-baseline"
+    ],
+    "service": "search",
+    "sector": null,
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-answer-first-page-format",
+    "path": "/blog/healthcare-answer-first-page-format",
+    "title": "How to write an answer-first page for a healthcare business",
+    "kind": "article",
+    "topic": "search",
+    "category": "Search and AI discovery",
+    "summary": "Put a direct answer below the page title, then explain exceptions, examples and what the reader can verify.",
+    "seoTitle": "How to write an answer-first page for a healthcare business",
+    "seoDescription": "Put a direct answer below the page title, then explain exceptions, examples and what the reader can verify.",
+    "answer": "Put a direct answer below the page title, then explain exceptions, examples and what the reader can verify. Use headings that name the decision or action so a visitor can skip to the part they need.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Use a complete opening answer"
+      },
+      {
+        "type": "paragraph",
+        "text": "“Put each branch’s hours next to its address and phone number” tells a reader what to do. “In today’s digital landscape” does not. Name the subject and include the condition that matters, such as hours varying by day or department."
+      },
+      {
+        "type": "heading",
+        "text": "Give the rest of the page a purpose"
+      },
+      {
+        "type": "paragraph",
+        "text": "Add one worked example and show what could change the recommendation. Link to a source for external facts and to an approved local page for operating details. Ask an editor to read only the title, opening and headings and say what action they would take."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Search Central: Creating helpful, reliable, people-first content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)"
+        ]
+      }
+    ],
+    "related": [
+      "healthcare-article-search-intent-map",
+      "healthcare-source-citations-editorial-guide",
+      "healthcare-search-visibility-baseline"
+    ],
+    "service": "search",
+    "sector": null,
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-search-visibility-baseline",
+    "path": "/blog/healthcare-search-visibility-baseline",
+    "title": "How to set a search visibility baseline before changing a healthcare site",
+    "kind": "article",
+    "topic": "search",
+    "category": "Search and AI discovery",
+    "summary": "Set a baseline for healthcare search impressions, clicks and enquiry routes before changing the website, so the team can compare results.",
+    "seoTitle": "How to set a search visibility baseline before changing a healthcare site",
+    "seoDescription": "Set a baseline for healthcare search impressions, clicks and enquiry routes before changing the website, so the team can compare results.",
+    "answer": "Record which pages and queries already receive impressions or clicks, what enquiries you can measure appropriately, and which public tasks you are trying to improve. Note the date range and any gaps before making changes.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Separate discovery from outcomes"
+      },
+      {
+        "type": "paragraph",
+        "text": "A branch page can gain impressions while visitors still struggle to contact the right reception desk. Record the branch page, query group and available search data separately from operational checks. Do not treat calls or forms as patient outcomes."
+      },
+      {
+        "type": "heading",
+        "text": "Save a comparison the team can repeat"
+      },
+      {
+        "type": "paragraph",
+        "text": "Write down the tool, filters and periods used. After the update, compare like-for-like windows and note changes such as a new branch or seasonal closure. Report pages and tasks where the evidence is clear, and mark gaps when measurement is unavailable."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Search Console Help: Performance report](https://support.google.com/webmasters/answer/7576553)"
+        ]
+      }
+    ],
+    "related": [
+      "clinic-website-canonical-url-check",
+      "healthcare-site-sitemap-launch-review",
+      "healthcare-article-search-intent-map"
+    ],
+    "service": "search",
+    "sector": null,
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-ai-answer-monitoring",
+    "path": "/blog/healthcare-ai-answer-monitoring",
+    "title": "How to check what AI answers say about a healthcare organization",
+    "kind": "article",
+    "topic": "search",
+    "category": "Search and AI discovery",
+    "summary": "Use a small set of real questions, record the platform and date, then verify the answer and any cited page against the organization’s approved information.",
+    "seoTitle": "How to check what AI answers say about a healthcare organization",
+    "seoDescription": "Use a small set of real questions, record the platform and date, then verify the answer and any cited page against the organization’s approved information.",
+    "answer": "Use a small set of real questions, record the platform and date, then verify the answer and any cited page against the organization’s approved information. Use the exercise to find unclear or outdated facts.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Test questions people actually ask"
+      },
+      {
+        "type": "paragraph",
+        "text": "Start with a branch address, service availability and how to reach the organization. Write down the wording, the location context you provided and the links shown. Repeat the same test later to compare changes without assuming every visitor receives the same answer."
+      },
+      {
+        "type": "heading",
+        "text": "Fix the authoritative information first"
+      },
+      {
+        "type": "paragraph",
+        "text": "If an answer shows an old branch phone number, check the website and managed listings for the same mismatch. Update the source you control and verify the published change. Record whether the issue recurs instead of turning a handful of answers into a visibility score."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Search Central: AI features and your website](https://developers.google.com/search/docs/appearance/ai-features)"
+        ]
+      }
+    ],
+    "related": [
+      "healthcare-article-search-intent-map",
+      "healthcare-answer-first-page-format",
+      "healthcare-search-visibility-baseline"
+    ],
+    "service": "search",
+    "sector": null,
+    "worksheet": "healthcare-listing-update-log",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-source-citations-editorial-guide",
+    "path": "/blog/healthcare-source-citations-editorial-guide",
+    "title": "How should healthcare business articles cite sources?",
+    "kind": "article",
+    "topic": "search",
+    "category": "Search and AI discovery",
+    "summary": "Link a source where the factual statement is made.",
+    "seoTitle": "How should healthcare business articles cite sources?",
+    "seoDescription": "Link a source where the factual statement is made.",
+    "answer": "Link a source where the factual statement is made. Prefer the organization that issued the relevant guidance or original data, name the document clearly, and record the version or access date internally when it matters.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Check what the source actually supports"
+      },
+      {
+        "type": "paragraph",
+        "text": "A platform policy can explain how a listing works. It cannot confirm that a named clinic is authorized to offer a service. Verify local facts with the responsible owner and specialist statements with the appropriate reviewer. Link to a page that backs the exact point."
+      },
+      {
+        "type": "heading",
+        "text": "Maintain the reference after launch"
+      },
+      {
+        "type": "paragraph",
+        "text": "Assign a person to check critical links when guidance changes. Replace a source that no longer supports the claim, or narrow the wording. Keep attribution visible so readers can make the same check without knowing your internal review process."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Search Central: Creating helpful, reliable, people-first content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)"
+        ]
+      }
+    ],
+    "related": [
+      "healthcare-article-search-intent-map",
+      "healthcare-answer-first-page-format",
+      "healthcare-search-visibility-baseline"
+    ],
+    "service": "search",
+    "sector": null,
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "clinic-website-canonical-url-check",
+    "path": "/blog/clinic-website-canonical-url-check",
+    "title": "How to check canonical URLs on a clinic website",
+    "kind": "article",
+    "topic": "search",
+    "category": "Search and AI discovery",
+    "summary": "Pick one preferred URL for each page and use it consistently in links, canonical tags and the sitemap.",
+    "seoTitle": "How to check canonical URLs on a clinic website",
+    "seoDescription": "Pick one preferred URL for each page and use it consistently in links, canonical tags and the sitemap.",
+    "answer": "Pick one preferred URL for each page and use it consistently in links, canonical tags and the sitemap. Treat different branches as separate pages when each has its own verified facts and purpose.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Check the versions visitors can reach"
+      },
+      {
+        "type": "paragraph",
+        "text": "Compare a service page linked from navigation with the same page opened through a campaign URL. The stable address should be the preferred version if the content is the same. A genuine branch page should point to itself when it serves a distinct location."
+      },
+      {
+        "type": "heading",
+        "text": "Check all signals together"
+      },
+      {
+        "type": "paragraph",
+        "text": "Confirm internal links use the final address, the sitemap contains it once, and no redirect leads to a different page. If a page is protected or deliberately kept out of search, resolve that separately. A canonical tag does not grant access to a private page."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Search Central: Consolidate duplicate URLs](https://developers.google.com/search/docs/crawling-indexing/consolidate-duplicate-urls)"
+        ]
+      }
+    ],
+    "related": [
+      "healthcare-search-visibility-baseline",
+      "healthcare-site-sitemap-launch-review",
+      "healthcare-article-search-intent-map"
+    ],
+    "service": "search",
+    "sector": null,
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-site-sitemap-launch-review",
+    "path": "/blog/healthcare-site-sitemap-launch-review",
+    "title": "What should a healthcare website include in its XML sitemap?",
+    "kind": "article",
+    "topic": "search",
+    "category": "Search and AI discovery",
+    "summary": "Include preferred URLs for public pages you want search engines to discover.",
+    "seoTitle": "What should a healthcare website include in its XML sitemap?",
+    "seoDescription": "Include preferred URLs for public pages you want search engines to discover.",
+    "answer": "Include preferred URLs for public pages you want search engines to discover. Leave out private review drafts, confirmation screens, duplicate campaign URLs and old addresses that now redirect.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Use the list as a launch check"
+      },
+      {
+        "type": "paragraph",
+        "text": "Compare the sitemap with the page inventory. If a branch page is present, confirm it loads without login and uses its own preferred address. If a page is missing, decide whether it is meant for discovery or only for people using an internal workflow."
+      },
+      {
+        "type": "heading",
+        "text": "Check again after publication"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fetch the published sitemap, confirm it uses the intended host and test a sample from each page type. Add the sitemap in the search console you control when the site is public. Treat sitemap inclusion as a discovery signal rather than proof of indexing."
+      },
+      {
+        "type": "heading",
+        "text": "Source"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "[Google Search Central: Build and submit a sitemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap)"
+        ]
+      }
+    ],
+    "related": [
+      "healthcare-search-visibility-baseline",
+      "clinic-website-canonical-url-check",
+      "healthcare-article-search-intent-map"
+    ],
+    "service": "search",
+    "sector": null,
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "clinic-enquiry-form-field-audit",
+    "path": "/blog/clinic-enquiry-form-field-audit",
+    "title": "Which fields should a clinic’s general enquiry form ask for?",
+    "kind": "article",
+    "topic": "enquiries",
+    "category": "Enquiries and appointments",
+    "summary": "Ask for the minimum details the receiving team needs to respond, such as a name, reply method and location or request type when relevant.",
+    "seoTitle": "Which fields should a clinic’s general enquiry form ask for?",
+    "seoDescription": "Ask for the minimum details the receiving team needs to respond, such as a name, reply method and location or request type when relevant.",
+    "answer": "Ask for the minimum details the receiving team needs to respond, such as a name, reply method and location or request type when relevant. Use a separate approved workflow for material the general enquiry inbox should not handle.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Justify each required field"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask reception what decision each field supports. If visitors can choose email for replies, requiring a phone number may add friction without helping. Make optional items clear and show conditional questions only when they affect routing or response."
+      },
+      {
+        "type": "heading",
+        "text": "Test incomplete and corrected requests"
+      },
+      {
+        "type": "paragraph",
+        "text": "Use fictional details to submit a missing field, correct it and try again. Confirm the form preserves valid entries and explains the error beside the field. Check that the receiving team can act on the result without asking the sender to repeat basic information."
+      }
+    ],
+    "related": [
+      "clinic-enquiry-source-tracking",
+      "clinic-appointment-form-fallback",
+      "dental-appointment-confirmation"
+    ],
+    "service": "systems",
+    "sector": null,
+    "worksheet": "clinic-enquiry-routing-map",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "clinic-appointment-form-fallback",
+    "path": "/blog/clinic-appointment-form-fallback",
+    "title": "What fallback should a clinic offer when its appointment form fails?",
+    "kind": "article",
+    "topic": "enquiries",
+    "category": "Enquiries and appointments",
+    "summary": "Show a working reception number or alternative contact route when the form cannot complete.",
+    "seoTitle": "What fallback should a clinic offer when its appointment form fails?",
+    "seoDescription": "Show a working reception number or alternative contact route when the form cannot complete.",
+    "answer": "Show a working reception number or alternative contact route when the form cannot complete. Explain whether the request was sent and give the visitor a clear next step without asking them to submit repeatedly.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Handle uncertainty explicitly"
+      },
+      {
+        "type": "paragraph",
+        "text": "An offline device and a server error may need different messages. If the system cannot confirm submission, say so. If a request was received, show a receipt or acknowledgement and keep the phone option available for changes."
+      },
+      {
+        "type": "heading",
+        "text": "Test a failure in a safe environment"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ask the site team to simulate a failed submission and follow the fallback from a phone. Check that the message is visible near the submit button, that the number reaches the correct desk, and that a successful retry does not create needless duplicate work."
+      }
+    ],
+    "related": [
+      "clinic-enquiry-form-field-audit",
+      "clinic-enquiry-source-tracking",
+      "dental-appointment-confirmation"
+    ],
+    "service": "systems",
+    "sector": null,
+    "worksheet": "clinic-website-acceptance-test",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "clinic-enquiry-source-tracking",
+    "path": "/blog/clinic-enquiry-source-tracking",
+    "title": "How can a clinic track where business enquiries came from without recording private details?",
+    "kind": "article",
+    "topic": "enquiries",
+    "category": "Enquiries and appointments",
+    "summary": "Capture a short source label, such as a specific branch page or approved campaign, and keep it separate from the message.",
+    "seoTitle": "How can a clinic track where business enquiries came from without recording private details?",
+    "seoDescription": "Capture a short source label, such as a specific branch page or approved campaign, and keep it separate from the message.",
+    "answer": "Capture a short source label, such as a specific branch page or approved campaign, and keep it separate from the message. Avoid putting names, phone numbers or private details in tracking links, event names or reports.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Give each source a clear meaning"
+      },
+      {
+        "type": "paragraph",
+        "text": "Use stable labels like “branch-contact” and “website-audit” instead of copying whatever appeared in a request field. Decide who will read the report and what decision it supports. Group small or unhelpful categories if nobody can act on them."
+      },
+      {
+        "type": "heading",
+        "text": "Check with fictional submissions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Submit test requests from two pages and compare the source labels in the inbox or reporting tool. Inspect outgoing links and events for unexpected form values. If a useful source cannot be captured safely, use an approved aggregate measure instead."
+      }
+    ],
+    "related": [
+      "clinic-enquiry-form-field-audit",
+      "clinic-appointment-form-fallback",
+      "dental-appointment-confirmation"
+    ],
+    "service": "systems",
+    "sector": null,
+    "worksheet": "clinic-enquiry-routing-map",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-website-maintenance-calendar",
+    "path": "/blog/healthcare-website-maintenance-calendar",
+    "title": "What should a healthcare website maintenance calendar cover?",
+    "kind": "article",
+    "topic": "governance",
+    "category": "Website governance",
+    "summary": "Schedule checks for contact routes, location information, service changes, old documents and software upkeep.",
+    "seoTitle": "What should a healthcare website maintenance calendar cover?",
+    "seoDescription": "Schedule checks for contact routes, location information, service changes, old documents and software upkeep.",
+    "answer": "Schedule checks for contact routes, location information, service changes, old documents and software upkeep. Give each task an owner and add event-driven reviews for changes that should not wait for a scheduled check.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Create a calendar people can follow"
+      },
+      {
+        "type": "paragraph",
+        "text": "A practical cycle might check reception links frequently, review branch details after holidays or moves, and recheck content when services or staff change. Assign a technical owner for releases and a business owner for information, since each can verify different things."
+      },
+      {
+        "type": "heading",
+        "text": "Record completion with evidence"
+      },
+      {
+        "type": "paragraph",
+        "text": "Use a short log with the page, date, what was checked and who handled the repair. If a check repeatedly fails, change the publishing process or ownership. A calendar is useful only if someone can tell what remains unresolved."
+      }
+    ],
+    "related": [
+      "clinic-website-translation-workflow",
+      "healthcare-content-claim-register",
+      "healthcare-website-ownership-handover"
+    ],
+    "service": "care",
+    "sector": null,
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-b2b-case-study-proof",
+    "path": "/blog/healthcare-b2b-case-study-proof",
+    "title": "What evidence makes a healthcare B2B case study credible?",
+    "kind": "article",
+    "topic": "b2b",
+    "category": "Healthcare B2B",
+    "summary": "State the customer context, scope of the work, observed outcome and how it was measured.",
+    "seoTitle": "What evidence makes a healthcare B2B case study credible?",
+    "seoDescription": "State the customer context, scope of the work, observed outcome and how it was measured.",
+    "answer": "State the customer context, scope of the work, observed outcome and how it was measured. Get permission for names, quotes and figures, and label whether evidence comes from a pilot or normal operations.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Give numbers enough context"
+      },
+      {
+        "type": "paragraph",
+        "text": "“Reduced manual follow-up” is easier to assess if you define the task, comparison period and sample. If the engagement only tested one branch or team, keep that scope beside the result. Do not extrapolate to every customer or imply a clinical result."
+      },
+      {
+        "type": "heading",
+        "text": "Make the case study useful to buyers"
+      },
+      {
+        "type": "paragraph",
+        "text": "Show a diagram, approved screenshot or process change if it helps a buyer understand what changed. Link to the relevant product or project route. Before publishing, confirm the customer can recognize the work and that every quoted result matches its source."
+      }
+    ],
+    "related": [
+      "healthcare-b2b-demo-qualification-questions",
+      "healthcare-saas-integration-directory",
+      "medical-device-product-spec-page"
+    ],
+    "service": "b2b",
+    "sector": null,
+    "worksheet": "healthcare-content-review-sheet",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  },
+  {
+    "slug": "healthcare-b2b-demo-qualification-questions",
+    "path": "/blog/healthcare-b2b-demo-qualification-questions",
+    "title": "Which questions should a healthcare B2B demo form ask?",
+    "kind": "article",
+    "topic": "b2b",
+    "category": "Healthcare B2B",
+    "summary": "Ask what the buyer wants to evaluate, the kind of organization they represent and how to reach them.",
+    "seoTitle": "Which questions should a healthcare B2B demo form ask?",
+    "seoDescription": "Ask what the buyer wants to evaluate, the kind of organization they represent and how to reach them.",
+    "answer": "Ask what the buyer wants to evaluate, the kind of organization they represent and how to reach them. Request additional information only if it changes who responds or how the team prepares the demo.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Use questions that change the next step"
+      },
+      {
+        "type": "paragraph",
+        "text": "“Which workflow are you evaluating?” helps the team choose a demo path. An exhaustive procurement questionnaire can wait until the buyer understands the product. If distributor and direct-buyer enquiries go to different teams, give each a clear route."
+      },
+      {
+        "type": "heading",
+        "text": "Measure the handoff with a test"
+      },
+      {
+        "type": "paragraph",
+        "text": "Send one fictional hospital enquiry and one vendor enquiry. Confirm each goes to the right person and the acknowledgement gives a realistic next step. Remove fields nobody uses after reviewing a few requests with sales and operations."
+      }
+    ],
+    "related": [
+      "healthcare-b2b-case-study-proof",
+      "dental-lab-case-enquiry-page",
+      "healthcare-saas-integration-directory"
+    ],
+    "service": "b2b",
+    "sector": null,
+    "worksheet": "clinic-enquiry-routing-map",
+    "author": "Marketing Tusk Healthcare",
+    "release": "Field Notes",
+    "status": "launch-candidate"
+  }
+]

@@ -1,0 +1,365 @@
+{
+  "version": "2.1.0",
+  "canonical_origin": "https://marketing-tusk-healthcare.marketingtusk.chatgpt.site",
+  "routes": [
+    {
+      "path": "/",
+      "type": "home",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/services/visibility-trust-audit",
+      "type": "service",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/services/healthcare-branding-content",
+      "type": "service",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/services/healthcare-websites-accessibility",
+      "type": "service",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/services/local-presence-listings",
+      "type": "service",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/services/healthcare-seo-geo-aeo",
+      "type": "service",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/services/social-media-visual-content",
+      "type": "service",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/services/crm-appointment-systems",
+      "type": "service",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/services/website-care-governance",
+      "type": "service",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/services/healthcare-b2b-growth",
+      "type": "service",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/services",
+      "type": "service_hub",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/dental",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/dental-chains",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/dermatology",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/hair-restoration",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/physiotherapy",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/therapy-centres",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/mental-health",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/fertility",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/eye-care",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/specialist",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/multispecialty",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/diagnostics",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/ayurveda",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/homeopathy",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/hospitals",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/homecare",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/wellness",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/healthtech",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/medical-devices",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/dental-labs",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/healthcare-education",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries/veterinary",
+      "type": "icp",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/industries",
+      "type": "icp_hub",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/resources/clinic-website-checklist",
+      "type": "resource",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/resources/branch-information-register",
+      "type": "resource",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/resources/healthcare-website-brief",
+      "type": "resource",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/resources",
+      "type": "resource_hub",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/blog",
+      "type": "blog_hub",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/contact",
+      "type": "contact",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/privacy",
+      "type": "legal",
+      "index_policy": "noindex_follow",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/terms",
+      "type": "legal",
+      "index_policy": "noindex_follow",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/thank-you",
+      "type": "utility",
+      "index_policy": "noindex_follow",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/resource-download",
+      "type": "utility",
+      "index_policy": "noindex_follow",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/blog/healthcare-website-information-checklist",
+      "type": "blog_post",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/blog/clinic-information-across-listings",
+      "type": "blog_post",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/blog/healthcare-seo-geo-aeo-explained",
+      "type": "blog_post",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    },
+    {
+      "path": "/blog/healthcare-website-brief",
+      "type": "blog_post",
+      "index_policy": "public_after_editorial_approval",
+      "status": "BUILT_FOR_PRIVATE_REVIEW"
+    }
+  ],
+  "compatibility_redirects": [
+    {
+      "from": "/solutions",
+      "to": "/services",
+      "http_status": 308
+    },
+    {
+      "from": "/solutions/audit-advisory",
+      "to": "/services/visibility-trust-audit",
+      "http_status": 308
+    },
+    {
+      "from": "/solutions/brand-experience",
+      "to": "/services/healthcare-websites-accessibility",
+      "http_status": 308
+    },
+    {
+      "from": "/solutions/presence-information",
+      "to": "/services/healthcare-seo-geo-aeo",
+      "http_status": 308
+    },
+    {
+      "from": "/solutions/operations-technology",
+      "to": "/services/crm-appointment-systems",
+      "http_status": 308
+    },
+    {
+      "from": "/solutions/enterprise-systems",
+      "to": "/services/website-care-governance",
+      "http_status": 308
+    },
+    {
+      "from": "/audit",
+      "to": "/services/visibility-trust-audit",
+      "http_status": 308
+    },
+    {
+      "from": "/audit/request",
+      "to": "/contact?intent=audit",
+      "http_status": 308
+    },
+    {
+      "from": "/audit/sample",
+      "to": "/services/visibility-trust-audit",
+      "http_status": 308
+    },
+    {
+      "from": "/consultation",
+      "to": "/contact?intent=project",
+      "http_status": 308
+    },
+    {
+      "from": "/insights",
+      "to": "/blog",
+      "http_status": 308
+    },
+    {
+      "from": "/about",
+      "to": "/#about",
+      "http_status": 308
+    }
+  ],
+  "old_corporate_wellness_route": "not in canonical matrix; retain only if verified distinct content and scope warrant an expansion page; otherwise review removal/redirect against actual publication history",
+  "query_canonical_policy": "canonical URLs omit form prefill and tracking parameters; intent/service/icp values are validated against fixed registries",
+  "not_public": [
+    "internal audit workspace",
+    "scoring datasets",
+    "reviewer and evidence registers",
+    "client reports without separate access control",
+    "staging and local test records"
+  ]
+}
