@@ -14,4 +14,4 @@
 - Local test records remain separate from the hosted database.
 - Temporary browser test routes were removed before packaging.
 
-The owner inbox requires hosted ChatGPT identity; anonymous access was verified to fail in local preview. Hosted inbox access is checked separately after deployment when a signed-in owner session is available.
+The owner inbox requires the signed owner session from `/studio/login`; anonymous access fails. Re-check inbox access after deployment with the configured `ADMIN_PASSWORD`, and confirm a wrong password is rejected.

@@ -2,11 +2,17 @@ import formConfig from '../content/forms.json';
 import options from '../content/form-options.json';
 export class ValidationError extends Error{}
 export type Kind='audit'|'consultation'|'resource';
+export type IntakeDetails={
+ idempotency_key:string;kind:Kind;name:string;email:string;organization:string;source:string;
+ resource_id?:string;marketing_opt_in?:boolean;consent_version:string;
+ intent?:string;service?:string;icp?:string;lane?:string;city?:string;contact_preference?:string;
+ phone?:string;notes?:string;answers?:Record<string,string|string[]>;consent?:boolean;needs_manual_scope?:boolean;
+};
 const serviceKeys=options.services.map(x=>x.key);const sectorIds=options.sectors.map(x=>x.id);
 const resourceIds=['clinic-website-checklist','branch-information-register','healthcare-website-brief'];
 function string(value:unknown,label:string,max:number,required=false){if(value!==undefined&&typeof value!=='string')throw new ValidationError('Please check '+label+'.');const s=(value||'').toString().trim();if((required&&!s)||s.length>max)throw new ValidationError('Please check '+label+'.');return s;}
 function url(value:unknown,required=false){const s=string(value,'the website or listing address',1000,required);if(!s)return '';try{const u=new URL(s);if(!['http:','https:'].includes(u.protocol)||u.username||u.password)throw Error();return u.href;}catch{throw new ValidationError('Use a complete website address starting with https://.')}}
-export function validateIntake(raw:any,kind:Kind){
+export function validateIntake(raw:any,kind:Kind):IntakeDetails{
  if(!raw||typeof raw!=='object'||Array.isArray(raw))throw new ValidationError('Please check the form details.');
  if(raw.company_website_confirm)throw new ValidationError('Please submit the form again.');
  const key=string(raw.idempotency_key,'the request identifier',80,true);if(!/^[a-zA-Z0-9_-]{16,80}$/.test(key.replace(/-/g,'_')))throw new ValidationError('Please refresh the page and try again.');

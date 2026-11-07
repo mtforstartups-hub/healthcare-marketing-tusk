@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ES2017",
+    "target": "ES2022",
     "lib": [
       "dom",
       "dom.iterable",
@@ -28,8 +28,7 @@
       ]
     },
     "types": [
-      "node",
-      "@cloudflare/workers-types"
+      "node"
     ]
   },
   "include": [
@@ -44,9 +43,9 @@
     "node_modules",
     "examples",
     "dist",
-    ".vinext",
-    ".wrangler",
+    ".next",
     ".sites-runtime",
+    ".test-runtime",
     "outputs",
     "work"
   ]

@@ -1,7 +1,7 @@
 {
-  "version": "6",
-  "dialect": "sqlite",
-  "id": "654f337b-e0b4-4e26-b993-043138a7922f",
+  "version": "5",
+  "dialect": "mysql",
+  "id": "1e4b4664-2c6e-4b12-bb5f-b5c1797838d4",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "tables": {
     "deliveries": {
@@ -9,21 +9,21 @@
       "columns": {
         "id": {
           "name": "id",
-          "type": "text",
-          "primaryKey": true,
+          "type": "varchar(36)",
+          "primaryKey": false,
           "notNull": true,
           "autoincrement": false
         },
         "reference": {
           "name": "reference",
-          "type": "text",
+          "type": "varchar(32)",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false
         },
         "status": {
           "name": "status",
-          "type": "text",
+          "type": "varchar(20)",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false,
@@ -31,7 +31,7 @@
         },
         "attempts": {
           "name": "attempts",
-          "type": "integer",
+          "type": "int",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false,
@@ -39,14 +39,14 @@
         },
         "created_at": {
           "name": "created_at",
-          "type": "integer",
+          "type": "bigint",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false
         },
         "next_at": {
           "name": "next_at",
-          "type": "integer",
+          "type": "bigint",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false
@@ -63,23 +63,30 @@
         }
       },
       "foreignKeys": {},
-      "compositePrimaryKeys": {},
+      "compositePrimaryKeys": {
+        "deliveries_id": {
+          "name": "deliveries_id",
+          "columns": [
+            "id"
+          ]
+        }
+      },
       "uniqueConstraints": {},
-      "checkConstraints": {}
+      "checkConstraint": {}
     },
     "rate_limits": {
       "name": "rate_limits",
       "columns": {
-        "key": {
-          "name": "key",
-          "type": "text",
-          "primaryKey": true,
+        "limit_key": {
+          "name": "limit_key",
+          "type": "varchar(64)",
+          "primaryKey": false,
           "notNull": true,
           "autoincrement": false
         },
         "count": {
           "name": "count",
-          "type": "integer",
+          "type": "int",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false,
@@ -87,7 +94,7 @@
         },
         "expires_at": {
           "name": "expires_at",
-          "type": "integer",
+          "type": "bigint",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false
@@ -95,30 +102,37 @@
       },
       "indexes": {},
       "foreignKeys": {},
-      "compositePrimaryKeys": {},
+      "compositePrimaryKeys": {
+        "rate_limits_limit_key": {
+          "name": "rate_limits_limit_key",
+          "columns": [
+            "limit_key"
+          ]
+        }
+      },
       "uniqueConstraints": {},
-      "checkConstraints": {}
+      "checkConstraint": {}
     },
     "requests": {
       "name": "requests",
       "columns": {
         "reference": {
           "name": "reference",
-          "type": "text",
-          "primaryKey": true,
+          "type": "varchar(32)",
+          "primaryKey": false,
           "notNull": true,
           "autoincrement": false
         },
         "kind": {
           "name": "kind",
-          "type": "text",
+          "type": "varchar(20)",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false
         },
         "status": {
           "name": "status",
-          "type": "text",
+          "type": "varchar(20)",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false,
@@ -126,14 +140,14 @@
         },
         "idempotency_key": {
           "name": "idempotency_key",
-          "type": "text",
+          "type": "varchar(80)",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false
         },
         "fingerprint": {
           "name": "fingerprint",
-          "type": "text",
+          "type": "varchar(64)",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false
@@ -147,35 +161,35 @@
         },
         "resource_id": {
           "name": "resource_id",
-          "type": "text",
+          "type": "varchar(100)",
           "primaryKey": false,
           "notNull": false,
           "autoincrement": false
         },
         "service": {
           "name": "service",
-          "type": "text",
+          "type": "varchar(40)",
           "primaryKey": false,
           "notNull": false,
           "autoincrement": false
         },
         "icp": {
           "name": "icp",
-          "type": "text",
+          "type": "varchar(80)",
           "primaryKey": false,
           "notNull": false,
           "autoincrement": false
         },
         "created_at": {
           "name": "created_at",
-          "type": "integer",
+          "type": "bigint",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false
         },
         "expires_at": {
           "name": "expires_at",
-          "type": "integer",
+          "type": "bigint",
           "primaryKey": false,
           "notNull": true,
           "autoincrement": false
@@ -205,19 +219,26 @@
         }
       },
       "foreignKeys": {},
-      "compositePrimaryKeys": {},
+      "compositePrimaryKeys": {
+        "requests_reference": {
+          "name": "requests_reference",
+          "columns": [
+            "reference"
+          ]
+        }
+      },
       "uniqueConstraints": {},
-      "checkConstraints": {}
+      "checkConstraint": {}
     }
   },
   "views": {},
-  "enums": {},
   "_meta": {
     "schemas": {},
     "tables": {},
     "columns": {}
   },
   "internal": {
+    "tables": {},
     "indexes": {}
   }
 }

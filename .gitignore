@@ -28,12 +28,13 @@ yarn-error.log*
 
 # Local environment and keys
 .env*
-.dev.vars*
 *.pem
 
-# Checkout-local tool state
-/.wrangler/
+# Generated test output and checkout-local tool state
+/.test-runtime/
 /.sites-runtime/
+/.vercel/
+/.wrangler/
 
 # Workspace scaffolding and publication archives
 /.agents/

@@ -1,11 +1,10 @@
 import type {Metadata} from 'next';
-import {env} from 'cloudflare:workers';
 import {indexingPolicy} from './seo-policy';
 import {EMAIL,type Page} from './content';
 import {isLaunchArticle,type Editorial} from './editorial';
 
 export const SITE_NAME='Marketing Tusk Healthcare';
-export const SEO=indexingPolicy(env);
+export const SEO=indexingPolicy(process.env);
 export const canonical=(path:string)=>SEO.origin+path;
 const brandId=canonical('/#organization');
 const websiteId=canonical('/#website');

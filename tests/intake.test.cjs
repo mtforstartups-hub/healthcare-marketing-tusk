@@ -1,6 +1,6 @@
 const {test}=require('node:test');const assert=require('node:assert/strict');
-const {validateIntake,ValidationError}=require('../.sites-runtime/core-tests/lib/intake-core.js');
-const {sealPayload,openPayload,sign,sameSignature}=require('../.sites-runtime/core-tests/lib/security.js');
+const {validateIntake,ValidationError}=require('../.test-runtime/core-tests/lib/intake-core.js');
+const {sealPayload,openPayload,sign,sameSignature}=require('../.test-runtime/core-tests/lib/security.js');
 const base={idempotency_key:'8f81aeac1f244496a26f67aec4271f8e',intent:'project',service:'website',name:'Test Name',organization:'Test Organization',email:'team@example.com',icp:'dental',city:'Delhi',contact_preference:'email',consent:'on',source:'/contact',answers:{website_need:'New website'}};
 test('a project enquiry preserves canonical details',()=>{const v=validateIntake(base,'consultation');assert.equal(v.service,'website');assert.equal(v.lane,'Clinic');assert.equal(v.consent,true)});
 test('phone is discarded for email contact',()=>assert.equal(validateIntake({...base,phone:'+91 99999 99999'},'consultation').phone,''));

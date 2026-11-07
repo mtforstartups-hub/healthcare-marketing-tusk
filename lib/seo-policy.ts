@@ -1,5 +1,7 @@
-export const REVIEW_ORIGIN='https://healthcare.marketingtusk.chatgpt.site';
-export function indexingPolicy(vars:{SEO_INDEXING?:string;SEO_PUBLIC_ORIGIN?:string;SITE_ACCESS_MODE?:string}){
+const DEFAULT_REVIEW_ORIGIN='https://healthcare.marketingtusk.com';
+export const REVIEW_ORIGIN=(process.env.SITE_REVIEW_ORIGIN||DEFAULT_REVIEW_ORIGIN).replace(/\/$/,'');
+type EnvVars={[key:string]:string|undefined};
+export function indexingPolicy(vars:EnvVars){
  // Public indexing requires a separate, deliberate launch configuration.
  if(vars.SEO_INDEXING==='public'&&vars.SITE_ACCESS_MODE==='public'&&vars.SEO_PUBLIC_ORIGIN){
   try {
